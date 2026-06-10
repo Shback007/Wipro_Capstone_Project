@@ -52,7 +52,7 @@ pipeline {
 					
 					reportDir: 'reports',
 					
-					reportFiles: 'ExtentReport.html'
+					reportFiles: 'ExtentReport.html',
 					
 					reportName: 'Automation Extent Report'
 				])
