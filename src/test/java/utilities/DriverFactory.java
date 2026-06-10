@@ -32,10 +32,12 @@ public class DriverFactory {
         	if(headless.equalsIgnoreCase("true")) {
         		
         		chromeOptions.addArguments("--headless=new");
-        		
         		chromeOptions.addArguments("--disable-gpu");
-        		
         		chromeOptions.addArguments("--window-size=1920,1080");
+
+        		chromeOptions.addArguments("--remote-allow-origins=*");
+        		chromeOptions.addArguments("--no-sandbox");
+        		chromeOptions.addArguments("--disable-dev-shm-usage");
         	}
         	
             driver.set(new ChromeDriver(chromeOptions));
@@ -49,10 +51,12 @@ public class DriverFactory {
         	if(headless.equalsIgnoreCase("true")) {
         		
         		edgeOptions.addArguments("--headless=new");
-        		
         		edgeOptions.addArguments("--disable-gpu");
-        		
         		edgeOptions.addArguments("--window-size=1920,1080");
+
+        		edgeOptions.addArguments("--remote-allow-origins=*");
+        		edgeOptions.addArguments("--no-sandbox");
+        		edgeOptions.addArguments("--disable-dev-shm-usage");
         	}
 
             driver.set(new EdgeDriver(edgeOptions));
