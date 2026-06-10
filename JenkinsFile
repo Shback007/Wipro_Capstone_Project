@@ -15,7 +15,7 @@ pipeline {
 			
 			steps {
 				
-				git branch : 'main'
+				git branch : 'main',
 				
 				url: 'https://github.com/Shback007/Wipro_Capstone_Project.git'
 			}
