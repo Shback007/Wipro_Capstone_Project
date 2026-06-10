@@ -94,12 +94,6 @@ mvn clean test -DsuiteXmlFile=testng.xml
 
 ---
 
-# Extent Report Location
-
-```text
-reports/ExtentReport.html
-```
-
 # ScreenShots 
 ## Jenkins Pipeline
 ![Jenkins Pipeline](screenshots/JenkinsPipeline.png)
