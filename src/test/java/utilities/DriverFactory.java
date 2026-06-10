@@ -38,6 +38,8 @@ public class DriverFactory {
         		chromeOptions.addArguments("--remote-allow-origins=*");
         		chromeOptions.addArguments("--no-sandbox");
         		chromeOptions.addArguments("--disable-dev-shm-usage");
+        		chromeOptions.addArguments("--disable-extensions");
+        		chromeOptions.addArguments("--disable-popup-blocking");
         	}
         	
             driver.set(new ChromeDriver(chromeOptions));
@@ -57,6 +59,8 @@ public class DriverFactory {
         		edgeOptions.addArguments("--remote-allow-origins=*");
         		edgeOptions.addArguments("--no-sandbox");
         		edgeOptions.addArguments("--disable-dev-shm-usage");
+        		edgeOptions.addArguments("--disable-extensions");
+        		edgeOptions.addArguments("--disable-popup-blocking");
         	}
 
             driver.set(new EdgeDriver(edgeOptions));
