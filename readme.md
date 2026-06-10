@@ -160,3 +160,13 @@ Automation Cocepts Used:
 - Parallel Execution Frameworks
 
 ---
+
+# Extent Reports
+
+[![Extent Report](https://img.shields.io/badge/View-Extent_Report-blue)](https://shback007.github.io/Wipro_Capstone_Project/)
+
+---
+
+```text
+reports/ExtentReport.html
+```
