@@ -8,6 +8,7 @@ import org.openqa.selenium.WebElement;
 
 import utilities.DropdownUtil;
 import utilities.ScrollUtil;
+import utilities.WaitUtil;
 
 public class DatePage {
 	
@@ -119,6 +120,8 @@ public class DatePage {
 		
 		//Submit
 		driver.findElement(submit_button).click();
+		
+		WaitUtil.pause(2);
 		
 		return driver.findElement(result).getText();
 	}

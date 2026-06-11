@@ -59,8 +59,6 @@ public class DateTest extends BaseTest {
 		
 		logger.info("Date Range Result :\n"	+result	);
 		
-		WaitUtil.pause(2);
-		
 		verifyDateSelection(result, "15", "Date Picker 3 Assertion"
         );
 	}
