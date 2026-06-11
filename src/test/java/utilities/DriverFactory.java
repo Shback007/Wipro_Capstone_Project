@@ -12,13 +12,15 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 
+import org.openqa.selenium.remote.LocalFileDetector;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class DriverFactory {
 
     // Thread Safe Driver
 
-    private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
+    private static ThreadLocal<WebDriver> driver =
+            new ThreadLocal<>();
 
 
 
@@ -26,11 +28,14 @@ public class DriverFactory {
 
     public static WebDriver initializeDriver() {
 
-        String browser = ConfigReader.getProperty("browser");
+        String browser =
+                ConfigReader.getProperty("browser");
 
-        String headless = ConfigReader.getProperty("headless");
+        String headless =
+                ConfigReader.getProperty("headless");
 
-        String execution_env = ConfigReader.getProperty("execution_env");
+        String execution_env =
+                ConfigReader.getProperty("execution_env");
 
 
 
@@ -48,21 +53,29 @@ public class DriverFactory {
 
                 if(headless.equalsIgnoreCase("true")) {
 
-                    chromeOptions.addArguments("--headless=new");
+                    chromeOptions.addArguments(
+                            "--headless=new");
 
-                    chromeOptions.addArguments("--disable-gpu");
+                    chromeOptions.addArguments(
+                            "--disable-gpu");
 
-                    chromeOptions.addArguments("--window-size=1920,1080");
+                    chromeOptions.addArguments(
+                            "--window-size=1920,1080");
 
-                    chromeOptions.addArguments("--remote-allow-origins=*");
+                    chromeOptions.addArguments(
+                            "--remote-allow-origins=*");
 
-                    chromeOptions.addArguments("--no-sandbox");
+                    chromeOptions.addArguments(
+                            "--no-sandbox");
 
-                    chromeOptions.addArguments("--disable-dev-shm-usage");
+                    chromeOptions.addArguments(
+                            "--disable-dev-shm-usage");
 
-                    chromeOptions.addArguments("--disable-extensions");
+                    chromeOptions.addArguments(
+                            "--disable-extensions");
 
-                    chromeOptions.addArguments("--disable-popup-blocking");
+                    chromeOptions.addArguments(
+                            "--disable-popup-blocking");
                 }
 
 
@@ -71,15 +84,36 @@ public class DriverFactory {
 
                 if(execution_env.equalsIgnoreCase("local")) {
 
-                    driver.set( new ChromeDriver(chromeOptions));
+                    driver.set(
+                            new ChromeDriver(chromeOptions));
                 }
+
 
 
                 // Remote Execution
 
                 else if(execution_env.equalsIgnoreCase("remote")) {
 
-                    driver.set(new RemoteWebDriver(new URL("http://selenium:4444/wd/hub"), chromeOptions));
+                    RemoteWebDriver remoteDriver =
+
+                            new RemoteWebDriver(
+
+                                    new URL(
+                                            "http://selenium:4444/wd/hub"),
+
+                                    chromeOptions
+                            );
+
+
+
+                    // File Upload Support
+
+                    remoteDriver.setFileDetector(
+                            new LocalFileDetector());
+
+
+
+                    driver.set(remoteDriver);
                 }
 
                 break;
@@ -88,28 +122,37 @@ public class DriverFactory {
 
             case "edge":
 
-                EdgeOptions edgeOptions = new EdgeOptions();
+                EdgeOptions edgeOptions =
+                        new EdgeOptions();
 
 
                 // Headless Configuration
 
                 if(headless.equalsIgnoreCase("true")) {
-                	
-                    edgeOptions.addArguments("--headless=new");
 
-                    edgeOptions.addArguments("--disable-gpu");
+                    edgeOptions.addArguments(
+                            "--headless=new");
 
-                    edgeOptions.addArguments("--window-size=1920,1080");
+                    edgeOptions.addArguments(
+                            "--disable-gpu");
 
-                    edgeOptions.addArguments("--remote-allow-origins=*");
+                    edgeOptions.addArguments(
+                            "--window-size=1920,1080");
 
-                    edgeOptions.addArguments("--no-sandbox");
+                    edgeOptions.addArguments(
+                            "--remote-allow-origins=*");
 
-                    edgeOptions.addArguments("--disable-dev-shm-usage");
+                    edgeOptions.addArguments(
+                            "--no-sandbox");
 
-                    edgeOptions.addArguments("--disable-extensions");
+                    edgeOptions.addArguments(
+                            "--disable-dev-shm-usage");
 
-                    edgeOptions.addArguments("--disable-popup-blocking");
+                    edgeOptions.addArguments(
+                            "--disable-extensions");
+
+                    edgeOptions.addArguments(
+                            "--disable-popup-blocking");
                 }
 
 
@@ -118,15 +161,36 @@ public class DriverFactory {
 
                 if(execution_env.equalsIgnoreCase("local")) {
 
-                    driver.set(new EdgeDriver(edgeOptions));
+                    driver.set(
+                            new EdgeDriver(edgeOptions));
                 }
+
 
 
                 // Remote Execution
 
                 else if(execution_env.equalsIgnoreCase("remote")) {
 
-                    driver.set(new RemoteWebDriver(new URL("http://selenium:4444/wd/hub"), edgeOptions));
+                    RemoteWebDriver remoteDriver =
+
+                            new RemoteWebDriver(
+
+                                    new URL(
+                                            "http://selenium:4444/wd/hub"),
+
+                                    edgeOptions
+                            );
+
+
+
+                    // File Upload Support
+
+                    remoteDriver.setFileDetector(
+                            new LocalFileDetector());
+
+
+
+                    driver.set(remoteDriver);
                 }
 
                 break;
@@ -135,7 +199,9 @@ public class DriverFactory {
 
             default:
 
-                throw new RuntimeException("Invalid Browser : " + browser);
+                throw new RuntimeException(
+                        "Invalid Browser : "
+                                + browser);
             }
 
         }
@@ -145,11 +211,17 @@ public class DriverFactory {
             e.printStackTrace();
         }
 
-       // Common Browser Configuration
+
+
+        // Common Browser Configuration
 
         getDriver().manage().window().maximize();
 
-        getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        getDriver().manage().timeouts()
+                .implicitlyWait(
+                        Duration.ofSeconds(10));
+
+
 
         return getDriver();
     }
@@ -179,3 +251,4 @@ public class DriverFactory {
         }
     }
 }
+
