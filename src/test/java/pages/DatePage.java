@@ -114,18 +114,10 @@ public class DatePage {
 		 
 	     ScrollUtil.scrollToElement(driver,start);
 	        
-		//Start Date
-	    start.click();
-	    
-	    start.clear();
-	    
+		//Start Date	    
 		start.sendKeys(startDate);
 		
 		//End Date
-		end.click();
-		
-		end.clear();
-		
 		end.sendKeys(endDate);
 		
 		WaitUtil.pause(1);
