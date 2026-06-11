@@ -109,14 +109,26 @@ public class DatePage {
 	public String SelectDateFromDatepicker3(String startDate, String endDate) {
 		
 		 WebElement start = driver.findElement(start_Date);
-
+		 
+		 WebElement end = driver.findElement(end_Date);
+		 
 	     ScrollUtil.scrollToElement(driver,start);
 	        
 		//Start Date
+	    start.click();
+	    
+	    start.clear();
+	    
 		start.sendKeys(startDate);
 		
 		//End Date
-		driver.findElement(end_Date).sendKeys(endDate);
+		end.click();
+		
+		end.clear();
+		
+		end.sendKeys(endDate);
+		
+		WaitUtil.pause(1);
 		
 		//Submit
 		driver.findElement(submit_button).click();
