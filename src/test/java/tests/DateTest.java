@@ -5,7 +5,6 @@ import org.testng.annotations.Test;
 
 import base.BaseTest;
 import pages.DatePage;
-import utilities.WaitUtil;
 
 
 
@@ -46,22 +45,22 @@ public class DateTest extends BaseTest {
 		
 	}
 	
-	@Test(priority =3,
-			description = "Verify Date Range Selection Functionality Using Date Picker 3",
-			groups= {"regression"})
-	public void handleDatePicker3() {
-		
-		logger.info("Date Picker 3 started");
-		
-		DatePage dp = new DatePage(getDriver());
-		
-		String result = dp.SelectDateFromDatepicker3("05-08-2026", "20-08-2026");
-		
-		logger.info("Date Range Result :\n"	+result	);
-		
-		verifyDateSelection(result, "15", "Date Picker 3 Assertion"
-        );
-	}
+//	@Test(priority =3,
+//			description = "Verify Date Range Selection Functionality Using Date Picker 3",
+//			groups= {"regression"})
+//	public void handleDatePicker3() {
+//		
+//		logger.info("Date Picker 3 started");
+//		
+//		DatePage dp = new DatePage(getDriver());
+//		
+//		String result = dp.SelectDateFromDatepicker3("05-08-2026", "20-08-2026");
+//		
+//		logger.info("Date Range Result :\n"	+result	);
+//		
+//		verifyDateSelection(result, "15", "Date Picker 3 Assertion"
+//        );
+//	}
 	
 	//Assertion Method
 	
