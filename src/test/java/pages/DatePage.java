@@ -118,29 +118,17 @@ public class DatePage {
 			    JavascriptExecutor js = (JavascriptExecutor) driver;
 
 			    // Set Start Date
-
 			    js.executeScript("arguments[0].value = arguments[1];", start, startDate);
 
 			    // Set End Date
-
 			    js.executeScript("arguments[0].value = arguments[1];", end, endDate);
-
-			    // DEBUG VALUES
-
-			    System.out.println("START FIELD VALUE : " + start.getAttribute("value"));
-
-			    System.out.println("END FIELD VALUE : "  + end.getAttribute("value"));
-
-			    WaitUtil.pause(1);
 
 			    // Submit
 			    driver.findElement(submit_button).click();
-
-			    WaitUtil.pause(2);
+			    
+			    WaitUtil.pause(0.5);
 
 			    String actualResult = driver.findElement(result).getText();
-
-			    System.out.println("ACTUAL RESULT : " + actualResult);
 
 			    return actualResult;
 			}

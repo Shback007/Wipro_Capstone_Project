@@ -9,7 +9,7 @@
  </listeners>
  
   <test name="Test">
-    <!--<classes>
+    <classes>
       <class name="tests.GUIFormTest"/>
       <class name="tests.ListTest"/>
       <class name="tests.DateTest"/>
@@ -29,11 +29,9 @@
       <class name="tests.DropDownTest"/>
       <class name="tests.LabelLinkTest"/>
       <class name="tests.ShadowDomTest"/>
-    </classes>-->
-    
-    <classes>
-    	<class name="tests.DateTest"/>
     </classes>
+    
+
     
   </test> <!-- Test -->
 </suite> <!-- Suite -->
