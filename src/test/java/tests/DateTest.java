@@ -54,7 +54,7 @@ public class DateTest extends BaseTest {
 		
 		DatePage dp = new DatePage(getDriver());
 		
-		String result = dp.SelectDateFromDatepicker3("05-08-2026", "20-08-2026");
+		String result = dp.SelectDateFromDatepicker3("2026-08-05", "2026-08-20");
 		
 		logger.info("Date Range Result :\n"	+result	);
 		
