@@ -3,6 +3,7 @@ package pages;
 import java.util.List;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
@@ -107,41 +108,44 @@ public class DatePage {
 	// Date Picker 3
 	
 	public String SelectDateFromDatepicker3(String startDate, String endDate) {
+
+			    WebElement start = driver.findElement(start_Date);
+
+			    WebElement end = driver.findElement(end_Date);
+
+			    ScrollUtil.scrollToElement(driver, start);
+
+			    JavascriptExecutor js = (JavascriptExecutor) driver;
+
+			    // Set Start Date
+
+			    js.executeScript("arguments[0].value = arguments[1];", start, startDate);
+
+			    // Set End Date
+
+			    js.executeScript("arguments[0].value = arguments[1];", end, endDate);
+
+			    // DEBUG VALUES
+
+			    System.out.println("START FIELD VALUE : " + start.getAttribute("value"));
+
+			    System.out.println("END FIELD VALUE : "  + end.getAttribute("value"));
+
+			    WaitUtil.pause(1);
+
+			    // Submit
+			    driver.findElement(submit_button).click();
+
+			    WaitUtil.pause(2);
+
+			    String actualResult = driver.findElement(result).getText();
+
+			    System.out.println("ACTUAL RESULT : " + actualResult);
+
+			    return actualResult;
+			}
 		
-		 WebElement start = driver.findElement(start_Date);
-		 
-		 WebElement end = driver.findElement(end_Date);
-		 
-	     ScrollUtil.scrollToElement(driver,start);
-	        
-		//Start Date	    
-		start.sendKeys(startDate);
-		
-		//End Date
-		end.sendKeys(endDate);
-		
-		//Debugging
-		
-		System.out.println( "START FIELD VALUE : " + start.getAttribute("value")); 
-		System.out.println( "END FIELD VALUE : " + end.getAttribute("value"));
-		
-		
-		
-		WaitUtil.pause(1);
-		
-		//Submit
-		driver.findElement(submit_button).click();
-		
-		WaitUtil.pause(2);
-		
-		String actualResult = driver.findElement(result).getText();
-		
-		// DEBUG RESULT
-		
-		System.out.println( "ACTUAL RESULT : " + actualResult);
-		
-		return actualResult;
-	}
+
 	
 	//Helper Method
 	public void selectDate(String date) {
