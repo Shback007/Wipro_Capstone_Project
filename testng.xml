@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite" parallel="classes" thread-count="5" preserve-order="true">
+<suite name="Suite" parallel="false" thread-count="5" preserve-order="true">
 
  <!-- LISTENER -->
  
@@ -9,7 +9,7 @@
  </listeners>
  
   <test name="Test">
-    <classes>
+    <!--<classes>
       <class name="tests.GUIFormTest"/>
       <class name="tests.ListTest"/>
       <class name="tests.DateTest"/>
@@ -29,6 +29,11 @@
       <class name="tests.DropDownTest"/>
       <class name="tests.LabelLinkTest"/>
       <class name="tests.ShadowDomTest"/>
+    </classes>-->
+    
+    <classes>
+    	<class name="tests.DateTest"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->

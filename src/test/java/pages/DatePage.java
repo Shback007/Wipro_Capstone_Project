@@ -120,6 +120,13 @@ public class DatePage {
 		//End Date
 		end.sendKeys(endDate);
 		
+		//Debugging
+		
+		System.out.println( "START FIELD VALUE : " + start.getAttribute("value")); 
+		System.out.println( "END FIELD VALUE : " + end.getAttribute("value"));
+		
+		
+		
 		WaitUtil.pause(1);
 		
 		//Submit
@@ -127,7 +134,13 @@ public class DatePage {
 		
 		WaitUtil.pause(2);
 		
-		return driver.findElement(result).getText();
+		String actualResult = driver.findElement(result).getText();
+		
+		// DEBUG RESULT
+		
+		System.out.println( "ACTUAL RESULT : " + actualResult);
+		
+		return actualResult;
 	}
 	
 	//Helper Method
