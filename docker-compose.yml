@@ -12,7 +12,7 @@ services:
       - "8080:8080"
       - "50000:50000"
     environment:
-	  - JAVA_OPTS=-Dhudson.model.DirectoryBrowserSupport.CSP=""
+      - JAVA_OPTS=-Dhudson.model.DirectoryBrowserSupport.CSP=""
 
     volumes:
       - jenkins_home:/var/jenkins_home
