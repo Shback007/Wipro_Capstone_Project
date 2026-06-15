@@ -1,0 +1,245 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>33/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Jun 15 22:39:00 IST 2026</td>
+</tr>
+<tr><td>Total time:</td><td>71 seconds (71590 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.DownloadFilesTest.automateDownloadFiles()'><b>automateDownloadFiles</b><br>Test class: tests.DownloadFilesTest<br>Test method: Verify Text and PDF File Generation and Download Functionality</td>
+<td></td>
+<td>12</td>
+<td>tests.DownloadFilesTest@70e29e14</td></tr>
+<tr>
+<td title='tests.AlertTest.handlePromptAlertDismiss()'><b>handlePromptAlertDismiss</b><br>Test class: tests.AlertTest<br>Test method: Verify Prompt Alert Dismiss Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.AlertTest@40bffbca</td></tr>
+<tr>
+<td title='tests.ListTest.verifyDropdownList()'><b>verifyDropdownList</b><br>Test class: tests.ListTest<br>Test method: Verify Single Selection Functionality For Color and Animal Dropdown Lists</td>
+<td></td>
+<td>2</td>
+<td>tests.ListTest@120f38e6</td></tr>
+<tr>
+<td title='tests.GUIFormTest.verifyFormSubmission()'><b>verifyFormSubmission</b><br>Test class: tests.GUIFormTest<br>Test method: Verify GUI Form Submission Using Excel Data Driven Testing<br>Parameters: Alex, alex24@gmail.com, 6497653897, Tokyo Japan, female, friday,tuesday, Japan</td>
+<td></td>
+<td>0</td>
+<td>tests.GUIFormTest@1051817b</td></tr>
+<tr>
+<td title='tests.TabTest.verifyWikiPediaSearch()'><b>verifyWikiPediaSearch</b><br>Test class: tests.TabTest<br>Test method: Verify Wikipedia Search Functionality and Result Count Validation</td>
+<td></td>
+<td>3</td>
+<td>tests.TabTest@3b1bb3ab</td></tr>
+<tr>
+<td title='tests.DragDropTest.testDragAndDrop()'><b>testDragAndDrop</b><br>Test class: tests.DragDropTest<br>Test method: Verify Drag and Drop Functionality Between Source and Target Elements</td>
+<td></td>
+<td>0</td>
+<td>tests.DragDropTest@62da83ed</td></tr>
+<tr>
+<td title='tests.SvgTest.veriFySVGElement()'><b>veriFySVGElement</b><br>Test class: tests.SvgTest<br>Test method: Verify SVG Elements Visibility and Validation Functionality</td>
+<td></td>
+<td>1</td>
+<td>tests.SvgTest@37d80fe7</td></tr>
+<tr>
+<td title='tests.AlertTest.handleSimpleAlert()'><b>handleSimpleAlert</b><br>Test class: tests.AlertTest<br>Test method: Verify Simple ALert Accept Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.AlertTest@40bffbca</td></tr>
+<tr>
+<td title='tests.AlertTest.handleConfirmAlertDismiss()'><b>handleConfirmAlertDismiss</b><br>Test class: tests.AlertTest<br>Test method: Verify Confirm Alert Dismiss Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.AlertTest@40bffbca</td></tr>
+<tr>
+<td title='tests.MouseHoverTest.verifyMouseHover1()'><b>verifyMouseHover1</b><br>Test class: tests.MouseHoverTest<br>Test method: Verify Mouse Hover Functionality and Mobiles Option Selection</td>
+<td></td>
+<td>1</td>
+<td>tests.MouseHoverTest@2449cff7</td></tr>
+<tr>
+<td title='tests.SliderTest.verifySliderMovement()'><b>verifySliderMovement</b><br>Test class: tests.SliderTest<br>Test method: Verify Slider Movement Functionality Using Drag and Drop Actions</td>
+<td></td>
+<td>2</td>
+<td>tests.SliderTest@5d8445d7</td></tr>
+<tr>
+<td title='tests.ListTest.verifyDropdownLists()'><b>verifyDropdownLists</b><br>Test class: tests.ListTest<br>Test method: Verify Multiple Selection Functionality For Color and Animal Dropdown Lists</td>
+<td></td>
+<td>4</td>
+<td>tests.ListTest@120f38e6</td></tr>
+<tr>
+<td title='tests.MouseHoverTest.verifyMouseHover2()'><b>verifyMouseHover2</b><br>Test class: tests.MouseHoverTest<br>Test method: Verify Mouse Hover Functionality and Laptops Option Selection</td>
+<td></td>
+<td>1</td>
+<td>tests.MouseHoverTest@2449cff7</td></tr>
+<tr>
+<td title='tests.FormTest.testForm()'><b>testForm</b><br>Test class: tests.FormTest<br>Test method: Verify Multi Section Form Input and Submission Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.FormTest@7c18432b</td></tr>
+<tr>
+<td title='tests.AlertTest.handleConfirmAlertAccept()'><b>handleConfirmAlertAccept</b><br>Test class: tests.AlertTest<br>Test method: Verify Confirm Alert Accept Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.AlertTest@40bffbca</td></tr>
+<tr>
+<td title='tests.TableTest.verifyPaginationTable()'><b>verifyPaginationTable</b><br>Test class: tests.TableTest<br>Test method: Verify Pagination Web Table Row Selection and Data Retrieval</td>
+<td></td>
+<td>0</td>
+<td>tests.TableTest@173b9122</td></tr>
+<tr>
+<td title='tests.TableTest.verifyMaximumPriceBook()'><b>verifyMaximumPriceBook</b><br>Test class: tests.TableTest<br>Test method: Verify Maximum Price Book Details Retrieval From Static Web Table</td>
+<td></td>
+<td>0</td>
+<td>tests.TableTest@173b9122</td></tr>
+<tr>
+<td title='tests.DropDownTest.verifyScrollingDropdown()'><b>verifyScrollingDropdown</b><br>Test class: tests.DropDownTest<br>Test method: Verify Scrollable Dropdown Selection Functionality</td>
+<td></td>
+<td>1</td>
+<td>tests.DropDownTest@384fc774</td></tr>
+<tr>
+<td title='tests.ShadowDomTest.verifyShadowDomElements()'><b>verifyShadowDomElements</b><br>Test class: tests.ShadowDomTest<br>Test method: Verify Shadow DOM and Nested Shadow DOM Element Interactions</td>
+<td></td>
+<td>3</td>
+<td>tests.ShadowDomTest@71e9a896</td></tr>
+<tr>
+<td title='tests.LabelLinkTest.verifyMobileLabels()'><b>verifyMobileLabels</b><br>Test class: tests.LabelLinkTest<br>Test method: Verify Mobile Labels Displayed Correctly</td>
+<td></td>
+<td>0</td>
+<td>tests.LabelLinkTest@e3cee7b</td></tr>
+<tr>
+<td title='tests.AlertTest.handlePromptAlertAccept()'><b>handlePromptAlertAccept</b><br>Test class: tests.AlertTest<br>Test method: Verify Prompt Alert Accept Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.AlertTest@40bffbca</td></tr>
+<tr>
+<td title='tests.UploadTest.verifySingleFileUpload()'><b>verifySingleFileUpload</b><br>Test class: tests.UploadTest<br>Test method: Verify Single File Upload Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.UploadTest@702ed190</td></tr>
+<tr>
+<td title='tests.LabelLinkTest.verifyBrokenLinks()'><b>verifyBrokenLinks</b><br>Test class: tests.LabelLinkTest<br>Test method: Verify Broken Links Validation Functionality</td>
+<td></td>
+<td>6</td>
+<td>tests.LabelLinkTest@e3cee7b</td></tr>
+<tr>
+<td title='tests.DynamicButtonTest.verifyDynamicButton()'><b>verifyDynamicButton</b><br>Test class: tests.DynamicButtonTest<br>Test method: Verify Dynamic START and STOP Button Functionality</td>
+<td></td>
+<td>4</td>
+<td>tests.DynamicButtonTest@5a4bef8</td></tr>
+<tr>
+<td title='tests.DateTest.handleDatePicker3()'><b>handleDatePicker3</b><br>Test class: tests.DateTest<br>Test method: Verify Date Range Selection Functionality Using Date Picker 3</td>
+<td></td>
+<td>0</td>
+<td>tests.DateTest@7a0e1b5e</td></tr>
+<tr>
+<td title='tests.UploadTest.verifyMultipleFileUpload()'><b>verifyMultipleFileUpload</b><br>Test class: tests.UploadTest<br>Test method: Verify Multiple File Upload Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.UploadTest@702ed190</td></tr>
+<tr>
+<td title='tests.LabelLinkTest.verifyLaptopLinks()'><b>verifyLaptopLinks</b><br>Test class: tests.LabelLinkTest<br>Test method: Verify Laptop Links Displayed Correctly</td>
+<td></td>
+<td>0</td>
+<td>tests.LabelLinkTest@e3cee7b</td></tr>
+<tr>
+<td title='tests.DateTest.handleDatePicker2()'><b>handleDatePicker2</b><br>Test class: tests.DateTest<br>Test method: Verify Date Picker 2 Dropdown Calendar Selection Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.DateTest@7a0e1b5e</td></tr>
+<tr>
+<td title='tests.DateTest.handleDatePicker1()'><b>handleDatePicker1</b><br>Test class: tests.DateTest<br>Test method: Verify Date Picker 1 Calendar Selection Functionality</td>
+<td></td>
+<td>2</td>
+<td>tests.DateTest@7a0e1b5e</td></tr>
+<tr>
+<td title='tests.GUIFormTest.verifyFormSubmission()'><b>verifyFormSubmission</b><br>Test class: tests.GUIFormTest<br>Test method: Verify GUI Form Submission Using Excel Data Driven Testing<br>Parameters: David, david69@gmail.com, 9465976534, Kolkata India, male, sunday,monday, India</td>
+<td></td>
+<td>0</td>
+<td>tests.GUIFormTest@1051817b</td></tr>
+<tr>
+<td title='tests.TableTest.verifyDynamicTableDetails()'><b>verifyDynamicTableDetails</b><br>Test class: tests.TableTest<br>Test method: Verify Dynamic Web Table Data Retrieval Functionality</td>
+<td></td>
+<td>0</td>
+<td>tests.TableTest@173b9122</td></tr>
+<tr>
+<td title='tests.HiddenAjaxTest.verifyHiddenAjaxPage()'><b>verifyHiddenAjaxPage</b><br>Test class: tests.HiddenAjaxTest<br>Test method: Verify Hidden Elements and AJAX Content Loading Functionality</td>
+<td></td>
+<td>6</td>
+<td>tests.HiddenAjaxTest@7646731d</td></tr>
+<tr>
+<td title='tests.DoubleClickTest.testDoubleClickCopyText()'><b>testDoubleClickCopyText</b><br>Test class: tests.DoubleClickTest<br>Test method: Testing Double Click Copy Button</td>
+<td></td>
+<td>3</td>
+<td>tests.DoubleClickTest@42a9a63e</td></tr>
+</table><p>
+</body>
+</html>

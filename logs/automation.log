@@ -3512,3 +3512,1187 @@ sample.txt, Size: 21 bytes, Type: text/plain
 2026-06-10 19:16:05 INFO  LabelLinkTest - Errorcode 502 -> 502
 2026-06-10 19:16:05 INFO  LabelLinkTest - Errorcode 503 -> 503
 2026-06-10 19:16:05 INFO  LabelLinkTest - Broken Links Test Passed
+2026-06-15 21:35:37 INFO  ListTest - Single Color Test
+2026-06-15 21:35:37 INFO  GUIFormTest - Form Test Started
+2026-06-15 21:35:37 INFO  GUIFormTest - Entering Name
+2026-06-15 21:35:37 INFO  DateTest - Date Picker 1 started
+2026-06-15 21:35:37 INFO  GUIFormTest - Entering Email
+2026-06-15 21:35:37 INFO  TableTest - Book Detail Fetch Start
+2026-06-15 21:35:37 INFO  GUIFormTest - Entering Phone
+2026-06-15 21:35:37 INFO  GUIFormTest - Entering Address
+2026-06-15 21:35:37 INFO  TableTest - Maximum Price Book Details:
+ [Master In Selenium, Mukesh, Selenium, 3000]
+2026-06-15 21:35:37 INFO  TableTest - Maximum Price Book Assertion Passed
+2026-06-15 21:35:37 INFO  TableTest - Book Details Fetched Successfully
+2026-06-15 21:35:37 INFO  GUIFormTest - Entering Gender
+2026-06-15 21:35:37 INFO  GUIFormTest - Entering Days
+2026-06-15 21:35:37 INFO  GUIFormTest - Entering Country
+2026-06-15 21:35:37 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 21:35:37 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 21:35:37 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 21:35:37 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 21:35:37 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 21:35:37 INFO  GUIFormTest - Form Test Completed
+2026-06-15 21:35:39 INFO  UploadTest - Single File Upload Started
+2026-06-15 21:35:39 INFO  ListTest - Single Animal Test
+2026-06-15 21:35:39 INFO  UploadTest - Upload Message : Single file selected: sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 21:35:39 INFO  UploadTest - Single File Upload Assertion Passed
+2026-06-15 21:35:39 INFO  ListTest - Single color Assertion Passed
+2026-06-15 21:35:39 INFO  ListTest - Single Animal Assertion Passed
+2026-06-15 21:35:40 INFO  DateTest - Date Picker 1 Assertion Passed
+2026-06-15 21:35:42 INFO  TableTest - Verifying Dynamic Table Details
+2026-06-15 21:35:42 INFO  TableTest - CPU load of Chrome process: 2.3%
+2026-06-15 21:35:42 INFO  TableTest - Memory Size of Firefox process: 42.7 MB
+2026-06-15 21:35:42 INFO  TableTest - Network speed of Chrome process: 8.5 Mbps
+2026-06-15 21:35:42 INFO  TableTest - Disk space of Firefox process: 0.86 MB/s
+2026-06-15 21:35:42 INFO  TableTest - Dynamic Table Assertion Passed
+2026-06-15 21:35:42 INFO  TableTest - Dynamic Table Details Fetched
+2026-06-15 21:35:43 INFO  GUIFormTest - Form Test Started
+2026-06-15 21:35:43 INFO  GUIFormTest - Entering Name
+2026-06-15 21:35:43 INFO  GUIFormTest - Entering Email
+2026-06-15 21:35:43 INFO  GUIFormTest - Entering Phone
+2026-06-15 21:35:43 INFO  GUIFormTest - Entering Address
+2026-06-15 21:35:43 INFO  GUIFormTest - Entering Gender
+2026-06-15 21:35:43 INFO  GUIFormTest - Entering Days
+2026-06-15 21:35:43 INFO  GUIFormTest - Entering Country
+2026-06-15 21:35:44 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 21:35:44 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 21:35:44 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 21:35:44 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 21:35:44 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 21:35:44 INFO  GUIFormTest - Form Test Completed
+2026-06-15 21:35:44 INFO  UploadTest - Multiple File Upload Started
+2026-06-15 21:35:44 INFO  UploadTest - Upload Message : Multiple files selected:
+demo.txt, Size: 19 bytes, Type: text/plain
+sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 21:35:44 INFO  UploadTest - Multiple File Upload Assertion 1 Passed
+2026-06-15 21:35:44 INFO  UploadTest - Multiple File Upload Assertion 2 Passed
+2026-06-15 21:35:44 INFO  UploadTest - Multiple File Upload Completed
+2026-06-15 21:35:45 INFO  ListTest - Multiple Color Test
+2026-06-15 21:35:45 INFO  DateTest - Date Picker 2 started
+2026-06-15 21:35:46 INFO  DateTest - Date Picker 2 Assertion Passed
+2026-06-15 21:35:48 INFO  ListTest - Multiple Animal Test
+2026-06-15 21:35:48 INFO  TableTest - Verifying Pagination Table Details
+2026-06-15 21:35:49 INFO  ListTest - Multiple color Assertion Passed
+2026-06-15 21:35:49 INFO  TableTest - Selected Row Details: [8, Action Camera, $15.99, ]
+2026-06-15 21:35:49 INFO  TableTest - Pagination Table Assertion Passed
+2026-06-15 21:35:49 INFO  TableTest - Pagination Table Details Fetched
+2026-06-15 21:35:49 INFO  ListTest - Multiple Animal Assertion Passed
+2026-06-15 21:35:49 INFO  FormTest - Form Test Started
+2026-06-15 21:35:49 INFO  FormTest - Section 1 Assertion Passed
+2026-06-15 21:35:49 INFO  FormTest - Section 2 Assertion Passed
+2026-06-15 21:35:49 INFO  FormTest - Section 3 Assertion Passed
+2026-06-15 21:35:49 INFO  FormTest - Form Test Completed
+2026-06-15 21:35:50 INFO  HiddenAjaxTest - Hidden Ajax Test Started
+2026-06-15 21:35:51 INFO  DateTest - Date Picker 3 started
+2026-06-15 21:35:52 INFO  DateTest - Date Range Result :
+You selected a range of 15 days.
+2026-06-15 21:35:52 INFO  DateTest - Date Picker 3 Assertion Passed
+2026-06-15 21:35:54 INFO  TabTest - Wiki Pedia Search Test
+2026-06-15 21:35:54 INFO  DownloadFilesTest - Download File Test Started
+2026-06-15 21:35:55 INFO  DynamicButtonTest - Dynamic Button Test Started
+2026-06-15 21:35:55 INFO  DynamicButtonTest - Clicking START Button
+2026-06-15 21:35:55 INFO  DynamicButtonTest - STOP Button Displayed
+2026-06-15 21:35:57 INFO  HiddenAjaxTest - Ajax Status Assertion Passed
+2026-06-15 21:35:57 INFO  HiddenAjaxTest - Hidden Ajax Test Completed
+2026-06-15 21:35:57 INFO  DynamicButtonTest - Clicking STOP Button
+2026-06-15 21:35:57 INFO  AlertTest - Simple Alert Test Started
+2026-06-15 21:35:57 INFO  DynamicButtonTest - START Button Displayed Again
+2026-06-15 21:35:57 INFO  DynamicButtonTest - Dynamic Button Test Passed
+2026-06-15 21:35:57 INFO  AlertTest - Simple Alert Accepted Successfully
+2026-06-15 21:35:57 INFO  TabTest - Total Result Found: 5
+2026-06-15 21:36:03 INFO  DoubleClickTest - Double Click Test Started
+2026-06-15 21:36:03 INFO  AlertTest - Confirm Alert Accept Test Started
+2026-06-15 21:36:03 INFO  DoubleClickTest - Original Text : Hello World!
+2026-06-15 21:36:03 INFO  AlertTest - Confirm Alert Result : You pressed OK!
+2026-06-15 21:36:03 INFO  DoubleClickTest - Copied Text   : Hello World!
+2026-06-15 21:36:03 INFO  DoubleClickTest - Double Click Test Passed
+2026-06-15 21:36:03 INFO  DragDropTest - Drag and Drop Test Started
+2026-06-15 21:36:03 INFO  DragDropTest - Drag and Drop Test Passed
+2026-06-15 21:36:03 INFO  DragDropTest - Drop Result: Dropped!
+2026-06-15 21:36:03 INFO  MouseHoverTest - Mouse Hover Test 1
+2026-06-15 21:36:05 INFO  MouseHoverTest - Mouse Hover and Mobiles Click Successful
+2026-06-15 21:36:07 INFO  DownloadFilesTest - Current URL : https://testautomationpractice.blogspot.com/p/download-files_25.html
+2026-06-15 21:36:07 INFO  DownloadFilesTest - Download Files Test Passed
+2026-06-15 21:36:09 INFO  SvgTest - Starting Svg Element Test
+2026-06-15 21:36:11 INFO  SvgTest - Red Circle Displayed : true
+2026-06-15 21:36:11 INFO  SvgTest - Green Rectangle Displayed : true
+2026-06-15 21:36:11 INFO  SvgTest - Blue Triangle Displayed : true
+2026-06-15 21:36:11 INFO  SvgTest - Svg Element Test Completed
+2026-06-15 21:36:11 INFO  MouseHoverTest - Mouse Hover Test 2
+2026-06-15 21:36:12 INFO  MouseHoverTest - Mouse Hover and Laptops Click Successful
+2026-06-15 21:36:13 INFO  SliderTest - Slider moved successfully
+2026-06-15 21:36:16 INFO  DropDownTest - Scrolling Dropdown Test Started
+2026-06-15 21:36:16 INFO  AlertTest - Confirm Alert Dismiss Test Started
+2026-06-15 21:36:16 INFO  LabelLinkTest - Mobile Labels Test Started
+2026-06-15 21:36:16 INFO  LabelLinkTest - Mobile Label : Samsung
+2026-06-15 21:36:16 INFO  LabelLinkTest - Mobile Label : Real Me
+2026-06-15 21:36:16 INFO  LabelLinkTest - Mobile Label : Moto
+2026-06-15 21:36:16 INFO  LabelLinkTest - Mobile Labels Test Passed
+2026-06-15 21:36:17 INFO  AlertTest - Confirm Alert Result : You pressed Cancel!
+2026-06-15 21:36:17 INFO  DropDownTest - Selected Option: Item 59
+2026-06-15 21:36:17 INFO  DropDownTest - Scrolling Dropdown Test Passed
+2026-06-15 21:36:17 INFO  ShadowDomTest - Shadow DOM Test Started
+2026-06-15 21:36:17 INFO  ShadowDomTest - Mobile Label : Mobiles
+2026-06-15 21:36:17 INFO  ShadowDomTest - Laptop Label : Laptops
+2026-06-15 21:36:17 INFO  ShadowDomTest - Blog Link : Blog
+2026-06-15 21:36:17 INFO  ShadowDomTest - Entered Text : Shadow DOM Testing
+2026-06-15 21:36:17 INFO  ShadowDomTest - CheckBox Selected : true
+2026-06-15 21:36:17 INFO  ShadowDomTest - Uploaded File : C:\fakepath\sample.txt
+2026-06-15 21:36:17 INFO  ShadowDomTest - Youtube Link : Youtube
+2026-06-15 21:36:17 INFO  ShadowDomTest - Shadow DOM Test Passed
+2026-06-15 21:36:22 INFO  AlertTest - Prompt Alert Accept Test Started
+2026-06-15 21:36:22 INFO  AlertTest - Prompt Alert Result : Hello David! How are you today?
+2026-06-15 21:36:22 INFO  LabelLinkTest - Laptop Links Test Started
+2026-06-15 21:36:22 INFO  LabelLinkTest - Laptop Link : Apple
+2026-06-15 21:36:22 INFO  LabelLinkTest - Laptop Link : Lenovo
+2026-06-15 21:36:22 INFO  LabelLinkTest - Laptop Link : Dell
+2026-06-15 21:36:22 INFO  LabelLinkTest - Laptop Links Test Passed
+2026-06-15 21:36:26 INFO  LabelLinkTest - Broken Links Test Started
+2026-06-15 21:36:28 INFO  AlertTest - Prompt Alert Dismiss Test Started
+2026-06-15 21:36:28 INFO  AlertTest - Prompt Alert Result : User cancelled the prompt.
+2026-06-15 21:36:35 INFO  LabelLinkTest - Errorcode 400 -> 400
+2026-06-15 21:36:35 INFO  LabelLinkTest - Errorcode 401 -> 401
+2026-06-15 21:36:35 INFO  LabelLinkTest - Errorcode 403 -> 403
+2026-06-15 21:36:35 INFO  LabelLinkTest - Errorcode 404 -> 404
+2026-06-15 21:36:35 INFO  LabelLinkTest - Errorcode 408 -> 408
+2026-06-15 21:36:35 INFO  LabelLinkTest - Errorcode 500 -> 500
+2026-06-15 21:36:35 INFO  LabelLinkTest - Errorcode 502 -> 502
+2026-06-15 21:36:35 INFO  LabelLinkTest - Errorcode 503 -> 503
+2026-06-15 21:36:35 INFO  LabelLinkTest - Broken Links Test Passed
+2026-06-15 21:40:23 INFO  DateTest - Date Picker 1 started
+2026-06-15 21:40:23 INFO  UploadTest - Single File Upload Started
+2026-06-15 21:40:23 INFO  GUIFormTest - Form Test Started
+2026-06-15 21:40:23 INFO  GUIFormTest - Entering Name
+2026-06-15 21:40:23 INFO  GUIFormTest - Entering Email
+2026-06-15 21:40:23 INFO  UploadTest - Upload Message : Single file selected: sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 21:40:23 INFO  UploadTest - Single File Upload Assertion Passed
+2026-06-15 21:40:23 INFO  TableTest - Book Detail Fetch Start
+2026-06-15 21:40:23 INFO  GUIFormTest - Entering Phone
+2026-06-15 21:40:23 INFO  ListTest - Single Color Test
+2026-06-15 21:40:23 INFO  GUIFormTest - Entering Address
+2026-06-15 21:40:23 INFO  TableTest - Maximum Price Book Details:
+ [Master In Selenium, Mukesh, Selenium, 3000]
+2026-06-15 21:40:23 INFO  TableTest - Maximum Price Book Assertion Passed
+2026-06-15 21:40:23 INFO  TableTest - Book Details Fetched Successfully
+2026-06-15 21:40:23 INFO  GUIFormTest - Entering Gender
+2026-06-15 21:40:23 INFO  GUIFormTest - Entering Days
+2026-06-15 21:40:23 INFO  GUIFormTest - Entering Country
+2026-06-15 21:40:24 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 21:40:24 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 21:40:24 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 21:40:24 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 21:40:24 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 21:40:24 INFO  GUIFormTest - Form Test Completed
+2026-06-15 21:40:25 INFO  ListTest - Single Animal Test
+2026-06-15 21:40:26 INFO  ListTest - Single color Assertion Passed
+2026-06-15 21:40:26 INFO  ListTest - Single Animal Assertion Passed
+2026-06-15 21:40:26 INFO  DateTest - Date Picker 1 Assertion Passed
+2026-06-15 21:40:29 INFO  UploadTest - Multiple File Upload Started
+2026-06-15 21:40:29 INFO  TableTest - Verifying Dynamic Table Details
+2026-06-15 21:40:29 INFO  TableTest - CPU load of Chrome process: 0.3%
+2026-06-15 21:40:29 INFO  TableTest - Memory Size of Firefox process: 44.0 MB
+2026-06-15 21:40:29 INFO  TableTest - Network speed of Chrome process: 5.7 Mbps
+2026-06-15 21:40:29 INFO  TableTest - Disk space of Firefox process: 0.21 MB/s
+2026-06-15 21:40:29 INFO  TableTest - Dynamic Table Assertion Passed
+2026-06-15 21:40:29 INFO  TableTest - Dynamic Table Details Fetched
+2026-06-15 21:40:29 INFO  UploadTest - Upload Message : Multiple files selected:
+demo.txt, Size: 19 bytes, Type: text/plain
+sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 21:40:29 INFO  UploadTest - Multiple File Upload Assertion 1 Passed
+2026-06-15 21:40:29 INFO  UploadTest - Multiple File Upload Assertion 2 Passed
+2026-06-15 21:40:29 INFO  UploadTest - Multiple File Upload Completed
+2026-06-15 21:40:30 INFO  GUIFormTest - Form Test Started
+2026-06-15 21:40:30 INFO  GUIFormTest - Entering Name
+2026-06-15 21:40:30 INFO  GUIFormTest - Entering Email
+2026-06-15 21:40:30 INFO  GUIFormTest - Entering Phone
+2026-06-15 21:40:30 INFO  GUIFormTest - Entering Address
+2026-06-15 21:40:30 INFO  GUIFormTest - Entering Gender
+2026-06-15 21:40:30 INFO  GUIFormTest - Entering Days
+2026-06-15 21:40:30 INFO  GUIFormTest - Entering Country
+2026-06-15 21:40:30 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 21:40:30 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 21:40:30 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 21:40:30 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 21:40:30 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 21:40:30 INFO  GUIFormTest - Form Test Completed
+2026-06-15 21:40:32 INFO  DateTest - Date Picker 2 started
+2026-06-15 21:40:32 INFO  ListTest - Multiple Color Test
+2026-06-15 21:40:33 INFO  DateTest - Date Picker 2 Assertion Passed
+2026-06-15 21:40:35 INFO  FormTest - Form Test Started
+2026-06-15 21:40:35 INFO  TableTest - Verifying Pagination Table Details
+2026-06-15 21:40:35 INFO  FormTest - Section 1 Assertion Passed
+2026-06-15 21:40:35 INFO  FormTest - Section 2 Assertion Passed
+2026-06-15 21:40:35 INFO  FormTest - Section 3 Assertion Passed
+2026-06-15 21:40:35 INFO  FormTest - Form Test Completed
+2026-06-15 21:40:35 INFO  ListTest - Multiple Animal Test
+2026-06-15 21:40:36 INFO  TableTest - Selected Row Details: [8, Action Camera, $15.99, ]
+2026-06-15 21:40:36 INFO  TableTest - Pagination Table Assertion Passed
+2026-06-15 21:40:36 INFO  TableTest - Pagination Table Details Fetched
+2026-06-15 21:40:36 INFO  HiddenAjaxTest - Hidden Ajax Test Started
+2026-06-15 21:40:36 INFO  ListTest - Multiple color Assertion Passed
+2026-06-15 21:40:36 INFO  ListTest - Multiple Animal Assertion Passed
+2026-06-15 21:40:38 INFO  DateTest - Date Picker 3 started
+2026-06-15 21:40:38 INFO  DateTest - Date Range Result :
+You selected a range of 15 days.
+2026-06-15 21:40:38 INFO  DateTest - Date Picker 3 Assertion Passed
+2026-06-15 21:40:39 INFO  DynamicButtonTest - Dynamic Button Test Started
+2026-06-15 21:40:39 INFO  DynamicButtonTest - Clicking START Button
+2026-06-15 21:40:40 INFO  DownloadFilesTest - Download File Test Started
+2026-06-15 21:40:41 INFO  TabTest - Wiki Pedia Search Test
+2026-06-15 21:40:41 INFO  DynamicButtonTest - STOP Button Displayed
+2026-06-15 21:40:42 INFO  HiddenAjaxTest - Ajax Status Assertion Passed
+2026-06-15 21:40:42 INFO  HiddenAjaxTest - Hidden Ajax Test Completed
+2026-06-15 21:40:43 INFO  AlertTest - Simple Alert Test Started
+2026-06-15 21:40:43 INFO  AlertTest - Simple Alert Accepted Successfully
+2026-06-15 21:40:43 INFO  DynamicButtonTest - Clicking STOP Button
+2026-06-15 21:40:44 INFO  DynamicButtonTest - START Button Displayed Again
+2026-06-15 21:40:44 INFO  DynamicButtonTest - Dynamic Button Test Passed
+2026-06-15 21:40:44 INFO  TabTest - Total Result Found: 5
+2026-06-15 21:40:46 INFO  DownloadFilesTest - Current URL : https://testautomationpractice.blogspot.com/p/download-files_25.html
+2026-06-15 21:40:46 INFO  DownloadFilesTest - Download Files Test Passed
+2026-06-15 21:40:47 INFO  DragDropTest - Drag and Drop Test Started
+2026-06-15 21:40:48 INFO  MouseHoverTest - Mouse Hover Test 1
+2026-06-15 21:40:48 INFO  AlertTest - Confirm Alert Accept Test Started
+2026-06-15 21:40:48 INFO  AlertTest - Confirm Alert Result : You pressed OK!
+2026-06-15 21:40:49 INFO  DoubleClickTest - Double Click Test Started
+2026-06-15 21:40:49 INFO  MouseHoverTest - Mouse Hover and Mobiles Click Successful
+2026-06-15 21:40:49 INFO  DoubleClickTest - Original Text : Hello World!
+2026-06-15 21:40:49 INFO  DoubleClickTest - Copied Text   : Hello World!
+2026-06-15 21:40:49 INFO  DoubleClickTest - Double Click Test Passed
+2026-06-15 21:40:49 INFO  DragDropTest - Drag and Drop Test Passed
+2026-06-15 21:40:50 INFO  DragDropTest - Drop Result: Dropped!
+2026-06-15 21:40:54 INFO  AlertTest - Confirm Alert Dismiss Test Started
+2026-06-15 21:40:54 INFO  SliderTest - Slider moved successfully
+2026-06-15 21:40:54 INFO  AlertTest - Confirm Alert Result : You pressed Cancel!
+2026-06-15 21:40:54 INFO  MouseHoverTest - Mouse Hover Test 2
+2026-06-15 21:40:55 INFO  SvgTest - Starting Svg Element Test
+2026-06-15 21:40:55 INFO  DropDownTest - Scrolling Dropdown Test Started
+2026-06-15 21:40:56 INFO  SvgTest - Red Circle Displayed : true
+2026-06-15 21:40:56 INFO  SvgTest - Green Rectangle Displayed : true
+2026-06-15 21:40:56 INFO  SvgTest - Blue Triangle Displayed : true
+2026-06-15 21:40:56 INFO  SvgTest - Svg Element Test Completed
+2026-06-15 21:40:56 INFO  MouseHoverTest - Mouse Hover and Laptops Click Successful
+2026-06-15 21:40:57 INFO  DropDownTest - Selected Option: Item 59
+2026-06-15 21:40:57 INFO  DropDownTest - Scrolling Dropdown Test Passed
+2026-06-15 21:40:59 INFO  LabelLinkTest - Mobile Labels Test Started
+2026-06-15 21:40:59 INFO  AlertTest - Prompt Alert Accept Test Started
+2026-06-15 21:40:59 INFO  LabelLinkTest - Mobile Label : Samsung
+2026-06-15 21:40:59 INFO  LabelLinkTest - Mobile Label : Real Me
+2026-06-15 21:40:59 INFO  LabelLinkTest - Mobile Label : Moto
+2026-06-15 21:40:59 INFO  LabelLinkTest - Mobile Labels Test Passed
+2026-06-15 21:40:59 INFO  AlertTest - Prompt Alert Result : Hello David! How are you today?
+2026-06-15 21:41:01 INFO  ShadowDomTest - Shadow DOM Test Started
+2026-06-15 21:41:01 INFO  ShadowDomTest - Mobile Label : Mobiles
+2026-06-15 21:41:01 INFO  ShadowDomTest - Laptop Label : Laptops
+2026-06-15 21:41:01 INFO  ShadowDomTest - Blog Link : Blog
+2026-06-15 21:41:01 INFO  ShadowDomTest - Entered Text : Shadow DOM Testing
+2026-06-15 21:41:01 INFO  ShadowDomTest - CheckBox Selected : true
+2026-06-15 21:41:01 INFO  ShadowDomTest - Uploaded File : C:\fakepath\sample.txt
+2026-06-15 21:41:01 INFO  ShadowDomTest - Youtube Link : Youtube
+2026-06-15 21:41:01 INFO  ShadowDomTest - Shadow DOM Test Passed
+2026-06-15 21:41:02 INFO  LabelLinkTest - Laptop Links Test Started
+2026-06-15 21:41:05 INFO  LabelLinkTest - Laptop Link : Apple
+2026-06-15 21:41:05 INFO  LabelLinkTest - Laptop Link : Lenovo
+2026-06-15 21:41:05 INFO  LabelLinkTest - Laptop Link : Dell
+2026-06-15 21:41:05 INFO  LabelLinkTest - Laptop Links Test Passed
+2026-06-15 21:41:05 INFO  AlertTest - Prompt Alert Dismiss Test Started
+2026-06-15 21:41:05 INFO  AlertTest - Prompt Alert Result : User cancelled the prompt.
+2026-06-15 21:41:07 INFO  LabelLinkTest - Broken Links Test Started
+2026-06-15 21:41:15 INFO  LabelLinkTest - Errorcode 400 -> 400
+2026-06-15 21:41:15 INFO  LabelLinkTest - Errorcode 401 -> 401
+2026-06-15 21:41:15 INFO  LabelLinkTest - Errorcode 403 -> 403
+2026-06-15 21:41:15 INFO  LabelLinkTest - Errorcode 404 -> 404
+2026-06-15 21:41:15 INFO  LabelLinkTest - Errorcode 408 -> 408
+2026-06-15 21:41:15 INFO  LabelLinkTest - Errorcode 500 -> 500
+2026-06-15 21:41:15 INFO  LabelLinkTest - Errorcode 502 -> 502
+2026-06-15 21:41:15 INFO  LabelLinkTest - Errorcode 503 -> 503
+2026-06-15 21:41:15 INFO  LabelLinkTest - Broken Links Test Passed
+2026-06-15 22:23:07 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:23:07 INFO  DateTest - Date Picker 1 started
+2026-06-15 22:23:07 INFO  UploadTest - Single File Upload Started
+2026-06-15 22:23:07 INFO  GUIFormTest - Entering Name
+2026-06-15 22:23:07 INFO  GUIFormTest - Entering Email
+2026-06-15 22:23:07 INFO  UploadTest - Upload Message : Single file selected: sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:23:07 INFO  UploadTest - Single File Upload Assertion Passed
+2026-06-15 22:23:07 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:23:07 INFO  GUIFormTest - Entering Address
+2026-06-15 22:23:07 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:23:07 INFO  GUIFormTest - Entering Days
+2026-06-15 22:23:08 INFO  GUIFormTest - Entering Country
+2026-06-15 22:23:08 INFO  TableTest - Book Detail Fetch Start
+2026-06-15 22:23:08 INFO  TableTest - Maximum Price Book Details:
+ [Master In Selenium, Mukesh, Selenium, 3000]
+2026-06-15 22:23:08 INFO  TableTest - Maximum Price Book Assertion Passed
+2026-06-15 22:23:08 INFO  TableTest - Book Details Fetched Successfully
+2026-06-15 22:23:08 INFO  ListTest - Single Color Test
+2026-06-15 22:23:08 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:23:08 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:23:08 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:23:08 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:23:08 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:23:08 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:23:10 INFO  ListTest - Single Animal Test
+2026-06-15 22:23:10 INFO  ListTest - Single color Assertion Passed
+2026-06-15 22:23:11 INFO  ListTest - Single Animal Assertion Passed
+2026-06-15 22:23:11 INFO  DateTest - Date Picker 1 Assertion Passed
+2026-06-15 22:23:13 INFO  UploadTest - Multiple File Upload Started
+2026-06-15 22:23:13 INFO  UploadTest - Upload Message : Multiple files selected:
+demo.txt, Size: 19 bytes, Type: text/plain
+sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:23:13 INFO  UploadTest - Multiple File Upload Assertion 1 Passed
+2026-06-15 22:23:13 INFO  UploadTest - Multiple File Upload Assertion 2 Passed
+2026-06-15 22:23:13 INFO  UploadTest - Multiple File Upload Completed
+2026-06-15 22:23:13 INFO  TableTest - Verifying Dynamic Table Details
+2026-06-15 22:23:13 INFO  TableTest - CPU load of Chrome process: 6.8%
+2026-06-15 22:23:13 INFO  TableTest - Memory Size of Firefox process: 56.6 MB
+2026-06-15 22:23:13 INFO  TableTest - Network speed of Chrome process: 7.0 Mbps
+2026-06-15 22:23:13 INFO  TableTest - Disk space of Firefox process: 0.28 MB/s
+2026-06-15 22:23:13 INFO  TableTest - Dynamic Table Assertion Passed
+2026-06-15 22:23:13 INFO  TableTest - Dynamic Table Details Fetched
+2026-06-15 22:23:13 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:23:13 INFO  GUIFormTest - Entering Name
+2026-06-15 22:23:14 INFO  GUIFormTest - Entering Email
+2026-06-15 22:23:14 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:23:14 INFO  GUIFormTest - Entering Address
+2026-06-15 22:23:14 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:23:14 INFO  GUIFormTest - Entering Days
+2026-06-15 22:23:14 INFO  GUIFormTest - Entering Country
+2026-06-15 22:23:14 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:23:14 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:23:14 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:23:14 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:23:14 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:23:14 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:23:16 INFO  ListTest - Multiple Color Test
+2026-06-15 22:23:16 INFO  DateTest - Date Picker 2 started
+2026-06-15 22:23:17 INFO  DateTest - Date Picker 2 Assertion Passed
+2026-06-15 22:23:19 INFO  ListTest - Multiple Animal Test
+2026-06-15 22:23:19 INFO  FormTest - Form Test Started
+2026-06-15 22:23:19 INFO  TableTest - Verifying Pagination Table Details
+2026-06-15 22:23:19 INFO  FormTest - Section 1 Assertion Passed
+2026-06-15 22:23:19 INFO  FormTest - Section 2 Assertion Passed
+2026-06-15 22:23:19 INFO  FormTest - Section 3 Assertion Passed
+2026-06-15 22:23:19 INFO  FormTest - Form Test Completed
+2026-06-15 22:23:19 INFO  ListTest - Multiple color Assertion Passed
+2026-06-15 22:23:19 INFO  ListTest - Multiple Animal Assertion Passed
+2026-06-15 22:23:19 INFO  TableTest - Selected Row Details: [8, Action Camera, $15.99, ]
+2026-06-15 22:23:19 INFO  TableTest - Pagination Table Assertion Passed
+2026-06-15 22:23:19 INFO  TableTest - Pagination Table Details Fetched
+2026-06-15 22:23:20 INFO  HiddenAjaxTest - Hidden Ajax Test Started
+2026-06-15 22:23:22 INFO  DateTest - Date Picker 3 started
+2026-06-15 22:23:22 INFO  DateTest - Date Range Result :
+You selected a range of 15 days.
+2026-06-15 22:23:22 INFO  DateTest - Date Picker 3 Assertion Passed
+2026-06-15 22:23:24 INFO  DownloadFilesTest - Download File Test Started
+2026-06-15 22:23:25 INFO  TabTest - Wiki Pedia Search Test
+2026-06-15 22:23:25 INFO  DynamicButtonTest - Dynamic Button Test Started
+2026-06-15 22:23:25 INFO  DynamicButtonTest - Clicking START Button
+2026-06-15 22:23:25 INFO  DynamicButtonTest - STOP Button Displayed
+2026-06-15 22:23:27 INFO  HiddenAjaxTest - Ajax Status Assertion Passed
+2026-06-15 22:23:27 INFO  HiddenAjaxTest - Hidden Ajax Test Completed
+2026-06-15 22:23:27 INFO  AlertTest - Simple Alert Test Started
+2026-06-15 22:23:27 INFO  AlertTest - Simple Alert Accepted Successfully
+2026-06-15 22:23:27 INFO  DynamicButtonTest - Clicking STOP Button
+2026-06-15 22:23:27 INFO  DynamicButtonTest - START Button Displayed Again
+2026-06-15 22:23:27 INFO  DynamicButtonTest - Dynamic Button Test Passed
+2026-06-15 22:23:28 INFO  TabTest - Total Result Found: 5
+2026-06-15 22:23:31 INFO  DownloadFilesTest - Current URL : https://testautomationpractice.blogspot.com/p/download-files_25.html
+2026-06-15 22:23:31 INFO  DownloadFilesTest - Download Files Test Passed
+2026-06-15 22:23:32 INFO  MouseHoverTest - Mouse Hover Test 1
+2026-06-15 22:23:33 INFO  AlertTest - Confirm Alert Accept Test Started
+2026-06-15 22:23:33 INFO  AlertTest - Confirm Alert Result : You pressed OK!
+2026-06-15 22:23:33 INFO  DoubleClickTest - Double Click Test Started
+2026-06-15 22:23:33 INFO  DoubleClickTest - Original Text : Hello World!
+2026-06-15 22:23:33 INFO  DoubleClickTest - Copied Text   : Hello World!
+2026-06-15 22:23:33 INFO  DoubleClickTest - Double Click Test Passed
+2026-06-15 22:23:33 INFO  DragDropTest - Drag and Drop Test Started
+2026-06-15 22:23:34 INFO  MouseHoverTest - Mouse Hover and Mobiles Click Successful
+2026-06-15 22:23:34 INFO  DragDropTest - Drag and Drop Test Passed
+2026-06-15 22:23:34 INFO  DragDropTest - Drop Result: Dropped!
+2026-06-15 22:23:35 INFO  SvgTest - Starting Svg Element Test
+2026-06-15 22:23:38 INFO  SvgTest - Red Circle Displayed : true
+2026-06-15 22:23:38 INFO  SvgTest - Green Rectangle Displayed : true
+2026-06-15 22:23:38 INFO  SvgTest - Blue Triangle Displayed : true
+2026-06-15 22:23:38 INFO  SvgTest - Svg Element Test Completed
+2026-06-15 22:23:38 INFO  AlertTest - Confirm Alert Dismiss Test Started
+2026-06-15 22:23:39 INFO  AlertTest - Confirm Alert Result : You pressed Cancel!
+2026-06-15 22:23:39 INFO  SliderTest - Slider moved successfully
+2026-06-15 22:23:39 INFO  MouseHoverTest - Mouse Hover Test 2
+2026-06-15 22:23:39 INFO  DropDownTest - Scrolling Dropdown Test Started
+2026-06-15 22:23:40 INFO  DropDownTest - Selected Option: Item 59
+2026-06-15 22:23:40 INFO  DropDownTest - Scrolling Dropdown Test Passed
+2026-06-15 22:23:40 INFO  MouseHoverTest - Mouse Hover and Laptops Click Successful
+2026-06-15 22:23:44 INFO  AlertTest - Prompt Alert Accept Test Started
+2026-06-15 22:23:44 INFO  LabelLinkTest - Mobile Labels Test Started
+2026-06-15 22:23:44 INFO  LabelLinkTest - Mobile Label : Samsung
+2026-06-15 22:23:44 INFO  LabelLinkTest - Mobile Label : Real Me
+2026-06-15 22:23:44 INFO  LabelLinkTest - Mobile Label : Moto
+2026-06-15 22:23:44 INFO  LabelLinkTest - Mobile Labels Test Passed
+2026-06-15 22:23:44 INFO  AlertTest - Prompt Alert Result : Hello David! How are you today?
+2026-06-15 22:23:44 INFO  ShadowDomTest - Shadow DOM Test Started
+2026-06-15 22:23:44 INFO  ShadowDomTest - Mobile Label : Mobiles
+2026-06-15 22:23:44 INFO  ShadowDomTest - Laptop Label : Laptops
+2026-06-15 22:23:44 INFO  ShadowDomTest - Blog Link : Blog
+2026-06-15 22:23:44 INFO  ShadowDomTest - Entered Text : Shadow DOM Testing
+2026-06-15 22:23:44 INFO  ShadowDomTest - CheckBox Selected : true
+2026-06-15 22:23:44 INFO  ShadowDomTest - Uploaded File : C:\fakepath\sample.txt
+2026-06-15 22:23:44 INFO  ShadowDomTest - Youtube Link : Youtube
+2026-06-15 22:23:44 INFO  ShadowDomTest - Shadow DOM Test Passed
+2026-06-15 22:23:49 INFO  LabelLinkTest - Laptop Links Test Started
+2026-06-15 22:23:49 INFO  LabelLinkTest - Laptop Link : Apple
+2026-06-15 22:23:49 INFO  LabelLinkTest - Laptop Link : Lenovo
+2026-06-15 22:23:49 INFO  LabelLinkTest - Laptop Link : Dell
+2026-06-15 22:23:49 INFO  LabelLinkTest - Laptop Links Test Passed
+2026-06-15 22:23:49 INFO  AlertTest - Prompt Alert Dismiss Test Started
+2026-06-15 22:23:49 INFO  AlertTest - Prompt Alert Result : User cancelled the prompt.
+2026-06-15 22:23:54 INFO  LabelLinkTest - Broken Links Test Started
+2026-06-15 22:24:00 INFO  LabelLinkTest - Errorcode 400 -> 400
+2026-06-15 22:24:00 INFO  LabelLinkTest - Errorcode 401 -> 401
+2026-06-15 22:24:00 INFO  LabelLinkTest - Errorcode 403 -> 403
+2026-06-15 22:24:00 INFO  LabelLinkTest - Errorcode 404 -> 404
+2026-06-15 22:24:00 INFO  LabelLinkTest - Errorcode 408 -> 408
+2026-06-15 22:24:00 INFO  LabelLinkTest - Errorcode 500 -> 500
+2026-06-15 22:24:00 INFO  LabelLinkTest - Errorcode 502 -> 502
+2026-06-15 22:24:00 INFO  LabelLinkTest - Errorcode 503 -> 503
+2026-06-15 22:24:00 INFO  LabelLinkTest - Broken Links Test Passed
+2026-06-15 22:25:55 INFO  DateTest - Date Picker 1 started
+2026-06-15 22:25:55 INFO  UploadTest - Single File Upload Started
+2026-06-15 22:25:55 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:25:55 INFO  TableTest - Book Detail Fetch Start
+2026-06-15 22:25:55 INFO  GUIFormTest - Entering Name
+2026-06-15 22:25:55 INFO  GUIFormTest - Entering Email
+2026-06-15 22:25:55 INFO  UploadTest - Upload Message : Single file selected: sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:25:55 INFO  UploadTest - Single File Upload Assertion Passed
+2026-06-15 22:25:55 INFO  TableTest - Maximum Price Book Details:
+ [Master In Selenium, Mukesh, Selenium, 3000]
+2026-06-15 22:25:55 INFO  TableTest - Maximum Price Book Assertion Passed
+2026-06-15 22:25:55 INFO  TableTest - Book Details Fetched Successfully
+2026-06-15 22:25:55 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:25:55 INFO  GUIFormTest - Entering Address
+2026-06-15 22:25:55 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:25:56 INFO  GUIFormTest - Entering Days
+2026-06-15 22:25:56 INFO  GUIFormTest - Entering Country
+2026-06-15 22:25:56 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:25:56 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:25:56 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:25:56 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:25:56 INFO  ListTest - Single Color Test
+2026-06-15 22:25:56 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:25:56 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:25:58 INFO  ListTest - Single Animal Test
+2026-06-15 22:25:58 INFO  DateTest - Date Picker 1 Assertion Passed
+2026-06-15 22:25:58 INFO  ListTest - Single color Assertion Passed
+2026-06-15 22:25:59 INFO  ListTest - Single Animal Assertion Passed
+2026-06-15 22:26:01 INFO  UploadTest - Multiple File Upload Started
+2026-06-15 22:26:01 INFO  UploadTest - Upload Message : Multiple files selected:
+demo.txt, Size: 19 bytes, Type: text/plain
+sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:26:01 INFO  UploadTest - Multiple File Upload Assertion 1 Passed
+2026-06-15 22:26:01 INFO  UploadTest - Multiple File Upload Assertion 2 Passed
+2026-06-15 22:26:01 INFO  UploadTest - Multiple File Upload Completed
+2026-06-15 22:26:02 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:26:02 INFO  GUIFormTest - Entering Name
+2026-06-15 22:26:02 INFO  GUIFormTest - Entering Email
+2026-06-15 22:26:02 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:26:02 INFO  GUIFormTest - Entering Address
+2026-06-15 22:26:02 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:26:02 INFO  GUIFormTest - Entering Days
+2026-06-15 22:26:02 INFO  GUIFormTest - Entering Country
+2026-06-15 22:26:02 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:26:02 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:26:02 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:26:02 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:26:02 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:26:02 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:26:04 INFO  ListTest - Multiple Color Test
+2026-06-15 22:26:06 INFO  TableTest - Verifying Dynamic Table Details
+2026-06-15 22:26:06 INFO  TableTest - CPU load of Chrome process: 1.5%
+2026-06-15 22:26:06 INFO  TableTest - Memory Size of Firefox process: 35.7 MB
+2026-06-15 22:26:06 INFO  TableTest - Network speed of Chrome process: 7.3 Mbps
+2026-06-15 22:26:06 INFO  TableTest - Disk space of Firefox process: 0.40 MB/s
+2026-06-15 22:26:06 INFO  TableTest - Dynamic Table Assertion Passed
+2026-06-15 22:26:06 INFO  TableTest - Dynamic Table Details Fetched
+2026-06-15 22:26:07 INFO  ListTest - Multiple Animal Test
+2026-06-15 22:26:07 INFO  FormTest - Form Test Started
+2026-06-15 22:26:07 INFO  DateTest - Date Picker 2 started
+2026-06-15 22:26:08 INFO  ListTest - Multiple color Assertion Passed
+2026-06-15 22:26:08 INFO  HiddenAjaxTest - Hidden Ajax Test Started
+2026-06-15 22:26:08 INFO  ListTest - Multiple Animal Assertion Passed
+2026-06-15 22:26:08 INFO  FormTest - Section 1 Assertion Passed
+2026-06-15 22:26:08 INFO  FormTest - Section 2 Assertion Passed
+2026-06-15 22:26:08 INFO  FormTest - Section 3 Assertion Passed
+2026-06-15 22:26:08 INFO  FormTest - Form Test Completed
+2026-06-15 22:26:08 INFO  DateTest - Date Picker 2 Assertion Passed
+2026-06-15 22:26:12 INFO  TableTest - Verifying Pagination Table Details
+2026-06-15 22:26:12 INFO  TableTest - Selected Row Details: [8, Action Camera, $15.99, ]
+2026-06-15 22:26:12 INFO  TableTest - Pagination Table Assertion Passed
+2026-06-15 22:26:12 INFO  TableTest - Pagination Table Details Fetched
+2026-06-15 22:26:13 INFO  DownloadFilesTest - Download File Test Started
+2026-06-15 22:26:13 INFO  TabTest - Wiki Pedia Search Test
+2026-06-15 22:26:13 INFO  DateTest - Date Picker 3 started
+2026-06-15 22:26:14 INFO  DateTest - Date Range Result :
+You selected a range of 15 days.
+2026-06-15 22:26:14 INFO  DateTest - Date Picker 3 Assertion Passed
+2026-06-15 22:26:14 INFO  HiddenAjaxTest - Ajax Status Assertion Passed
+2026-06-15 22:26:14 INFO  HiddenAjaxTest - Hidden Ajax Test Completed
+2026-06-15 22:26:17 INFO  TabTest - Total Result Found: 5
+2026-06-15 22:26:18 INFO  DynamicButtonTest - Dynamic Button Test Started
+2026-06-15 22:26:18 INFO  DynamicButtonTest - Clicking START Button
+2026-06-15 22:26:18 INFO  DynamicButtonTest - STOP Button Displayed
+2026-06-15 22:26:19 INFO  AlertTest - Simple Alert Test Started
+2026-06-15 22:26:19 INFO  AlertTest - Simple Alert Accepted Successfully
+2026-06-15 22:26:20 INFO  MouseHoverTest - Mouse Hover Test 1
+2026-06-15 22:26:20 INFO  DynamicButtonTest - Clicking STOP Button
+2026-06-15 22:26:20 INFO  DynamicButtonTest - START Button Displayed Again
+2026-06-15 22:26:20 INFO  DynamicButtonTest - Dynamic Button Test Passed
+2026-06-15 22:26:21 INFO  MouseHoverTest - Mouse Hover and Mobiles Click Successful
+2026-06-15 22:26:22 INFO  DoubleClickTest - Double Click Test Started
+2026-06-15 22:26:22 INFO  DoubleClickTest - Original Text : Hello World!
+2026-06-15 22:26:22 INFO  DoubleClickTest - Copied Text   : Hello World!
+2026-06-15 22:26:22 INFO  DoubleClickTest - Double Click Test Passed
+2026-06-15 22:26:24 INFO  AlertTest - Confirm Alert Accept Test Started
+2026-06-15 22:26:25 INFO  AlertTest - Confirm Alert Result : You pressed OK!
+2026-06-15 22:26:25 INFO  DragDropTest - Drag and Drop Test Started
+2026-06-15 22:26:25 INFO  DragDropTest - Drag and Drop Test Passed
+2026-06-15 22:26:25 INFO  DragDropTest - Drop Result: Dropped!
+2026-06-15 22:26:26 INFO  DownloadFilesTest - Current URL : https://testautomationpractice.blogspot.com/p/download-files_25.html
+2026-06-15 22:26:26 INFO  DownloadFilesTest - Download Files Test Passed
+2026-06-15 22:26:26 INFO  MouseHoverTest - Mouse Hover Test 2
+2026-06-15 22:26:28 INFO  MouseHoverTest - Mouse Hover and Laptops Click Successful
+2026-06-15 22:26:30 INFO  AlertTest - Confirm Alert Dismiss Test Started
+2026-06-15 22:26:30 INFO  AlertTest - Confirm Alert Result : You pressed Cancel!
+2026-06-15 22:26:30 INFO  SvgTest - Starting Svg Element Test
+2026-06-15 22:26:31 INFO  SliderTest - Slider moved successfully
+2026-06-15 22:26:31 INFO  DropDownTest - Scrolling Dropdown Test Started
+2026-06-15 22:26:32 INFO  SvgTest - Red Circle Displayed : true
+2026-06-15 22:26:32 INFO  SvgTest - Green Rectangle Displayed : true
+2026-06-15 22:26:32 INFO  SvgTest - Blue Triangle Displayed : true
+2026-06-15 22:26:32 INFO  SvgTest - Svg Element Test Completed
+2026-06-15 22:26:32 INFO  DropDownTest - Selected Option: Item 59
+2026-06-15 22:26:32 INFO  DropDownTest - Scrolling Dropdown Test Passed
+2026-06-15 22:26:33 INFO  LabelLinkTest - Mobile Labels Test Started
+2026-06-15 22:26:33 INFO  LabelLinkTest - Mobile Label : Samsung
+2026-06-15 22:26:33 INFO  LabelLinkTest - Mobile Label : Real Me
+2026-06-15 22:26:33 INFO  LabelLinkTest - Mobile Label : Moto
+2026-06-15 22:26:33 INFO  LabelLinkTest - Mobile Labels Test Passed
+2026-06-15 22:26:36 INFO  AlertTest - Prompt Alert Accept Test Started
+2026-06-15 22:26:36 INFO  AlertTest - Prompt Alert Result : Hello David! How are you today?
+2026-06-15 22:26:36 INFO  ShadowDomTest - Shadow DOM Test Started
+2026-06-15 22:26:36 INFO  ShadowDomTest - Mobile Label : Mobiles
+2026-06-15 22:26:36 INFO  ShadowDomTest - Laptop Label : Laptops
+2026-06-15 22:26:36 INFO  ShadowDomTest - Blog Link : Blog
+2026-06-15 22:26:36 INFO  ShadowDomTest - Entered Text : Shadow DOM Testing
+2026-06-15 22:26:36 INFO  ShadowDomTest - CheckBox Selected : true
+2026-06-15 22:26:36 INFO  ShadowDomTest - Uploaded File : C:\fakepath\sample.txt
+2026-06-15 22:26:36 INFO  ShadowDomTest - Youtube Link : Youtube
+2026-06-15 22:26:36 INFO  ShadowDomTest - Shadow DOM Test Passed
+2026-06-15 22:26:38 INFO  LabelLinkTest - Laptop Links Test Started
+2026-06-15 22:26:38 INFO  LabelLinkTest - Laptop Link : Apple
+2026-06-15 22:26:38 INFO  LabelLinkTest - Laptop Link : Lenovo
+2026-06-15 22:26:38 INFO  LabelLinkTest - Laptop Link : Dell
+2026-06-15 22:26:38 INFO  LabelLinkTest - Laptop Links Test Passed
+2026-06-15 22:26:41 INFO  AlertTest - Prompt Alert Dismiss Test Started
+2026-06-15 22:26:41 INFO  AlertTest - Prompt Alert Result : User cancelled the prompt.
+2026-06-15 22:26:43 INFO  LabelLinkTest - Broken Links Test Started
+2026-06-15 22:26:49 INFO  LabelLinkTest - Errorcode 400 -> 400
+2026-06-15 22:26:49 INFO  LabelLinkTest - Errorcode 401 -> 401
+2026-06-15 22:26:49 INFO  LabelLinkTest - Errorcode 403 -> 403
+2026-06-15 22:26:49 INFO  LabelLinkTest - Errorcode 404 -> 404
+2026-06-15 22:26:49 INFO  LabelLinkTest - Errorcode 408 -> 408
+2026-06-15 22:26:49 INFO  LabelLinkTest - Errorcode 500 -> 500
+2026-06-15 22:26:49 INFO  LabelLinkTest - Errorcode 502 -> 502
+2026-06-15 22:26:49 INFO  LabelLinkTest - Errorcode 503 -> 503
+2026-06-15 22:26:49 INFO  LabelLinkTest - Broken Links Test Passed
+2026-06-15 22:29:53 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:29:53 INFO  UploadTest - Single File Upload Started
+2026-06-15 22:29:53 INFO  TableTest - Book Detail Fetch Start
+2026-06-15 22:29:53 INFO  ListTest - Single Color Test
+2026-06-15 22:29:53 INFO  DateTest - Date Picker 1 started
+2026-06-15 22:29:53 INFO  GUIFormTest - Entering Name
+2026-06-15 22:29:53 INFO  GUIFormTest - Entering Email
+2026-06-15 22:29:53 INFO  TableTest - Maximum Price Book Details:
+ [Master In Selenium, Mukesh, Selenium, 3000]
+2026-06-15 22:29:53 INFO  TableTest - Maximum Price Book Assertion Passed
+2026-06-15 22:29:53 INFO  TableTest - Book Details Fetched Successfully
+2026-06-15 22:29:53 INFO  UploadTest - Upload Message : Single file selected: sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:29:53 INFO  UploadTest - Single File Upload Assertion Passed
+2026-06-15 22:29:54 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:29:54 INFO  GUIFormTest - Entering Address
+2026-06-15 22:29:54 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:29:54 INFO  GUIFormTest - Entering Days
+2026-06-15 22:29:54 INFO  GUIFormTest - Entering Country
+2026-06-15 22:29:54 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:29:54 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:29:54 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:29:54 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:29:54 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:29:54 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:29:56 INFO  ListTest - Single Animal Test
+2026-06-15 22:29:56 INFO  ListTest - Single color Assertion Passed
+2026-06-15 22:29:56 INFO  ListTest - Single Animal Assertion Passed
+2026-06-15 22:29:57 INFO  DateTest - Date Picker 1 Assertion Passed
+2026-06-15 22:29:59 INFO  UploadTest - Multiple File Upload Started
+2026-06-15 22:30:00 INFO  TableTest - Verifying Dynamic Table Details
+2026-06-15 22:30:00 INFO  TableTest - CPU load of Chrome process: 8.6%
+2026-06-15 22:30:00 INFO  TableTest - Memory Size of Firefox process: 47.0 MB
+2026-06-15 22:30:00 INFO  TableTest - Network speed of Chrome process: 3.9 Mbps
+2026-06-15 22:30:00 INFO  TableTest - Disk space of Firefox process: 0.65 MB/s
+2026-06-15 22:30:00 INFO  TableTest - Dynamic Table Assertion Passed
+2026-06-15 22:30:00 INFO  TableTest - Dynamic Table Details Fetched
+2026-06-15 22:30:00 INFO  UploadTest - Upload Message : Multiple files selected:
+demo.txt, Size: 19 bytes, Type: text/plain
+sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:30:00 INFO  UploadTest - Multiple File Upload Assertion 1 Passed
+2026-06-15 22:30:00 INFO  UploadTest - Multiple File Upload Assertion 2 Passed
+2026-06-15 22:30:00 INFO  UploadTest - Multiple File Upload Completed
+2026-06-15 22:30:00 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:30:00 INFO  GUIFormTest - Entering Name
+2026-06-15 22:30:00 INFO  GUIFormTest - Entering Email
+2026-06-15 22:30:00 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:30:00 INFO  GUIFormTest - Entering Address
+2026-06-15 22:30:00 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:30:00 INFO  GUIFormTest - Entering Days
+2026-06-15 22:30:00 INFO  GUIFormTest - Entering Country
+2026-06-15 22:30:00 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:30:00 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:30:00 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:30:00 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:30:00 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:30:00 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:30:02 INFO  ListTest - Multiple Color Test
+2026-06-15 22:30:02 INFO  DateTest - Date Picker 2 started
+2026-06-15 22:30:03 INFO  DateTest - Date Picker 2 Assertion Passed
+2026-06-15 22:30:05 INFO  ListTest - Multiple Animal Test
+2026-06-15 22:30:05 INFO  TableTest - Verifying Pagination Table Details
+2026-06-15 22:30:05 INFO  FormTest - Form Test Started
+2026-06-15 22:30:05 INFO  ListTest - Multiple color Assertion Passed
+2026-06-15 22:30:05 INFO  FormTest - Section 1 Assertion Passed
+2026-06-15 22:30:05 INFO  FormTest - Section 2 Assertion Passed
+2026-06-15 22:30:05 INFO  FormTest - Section 3 Assertion Passed
+2026-06-15 22:30:05 INFO  FormTest - Form Test Completed
+2026-06-15 22:30:05 INFO  ListTest - Multiple Animal Assertion Passed
+2026-06-15 22:30:06 INFO  TableTest - Selected Row Details: [8, Action Camera, $15.99, ]
+2026-06-15 22:30:06 INFO  TableTest - Pagination Table Assertion Passed
+2026-06-15 22:30:06 INFO  TableTest - Pagination Table Details Fetched
+2026-06-15 22:30:06 INFO  HiddenAjaxTest - Hidden Ajax Test Started
+2026-06-15 22:30:08 INFO  DateTest - Date Picker 3 started
+2026-06-15 22:30:08 INFO  DateTest - Date Range Result :
+You selected a range of 15 days.
+2026-06-15 22:30:08 INFO  DateTest - Date Picker 3 Assertion Passed
+2026-06-15 22:30:10 INFO  DownloadFilesTest - Download File Test Started
+2026-06-15 22:30:11 INFO  TabTest - Wiki Pedia Search Test
+2026-06-15 22:30:11 INFO  DynamicButtonTest - Dynamic Button Test Started
+2026-06-15 22:30:11 INFO  DynamicButtonTest - Clicking START Button
+2026-06-15 22:30:11 INFO  DynamicButtonTest - STOP Button Displayed
+2026-06-15 22:30:12 INFO  HiddenAjaxTest - Ajax Status Assertion Passed
+2026-06-15 22:30:12 INFO  HiddenAjaxTest - Hidden Ajax Test Completed
+2026-06-15 22:30:13 INFO  DynamicButtonTest - Clicking STOP Button
+2026-06-15 22:30:13 INFO  DynamicButtonTest - START Button Displayed Again
+2026-06-15 22:30:13 INFO  DynamicButtonTest - Dynamic Button Test Passed
+2026-06-15 22:30:13 INFO  AlertTest - Simple Alert Test Started
+2026-06-15 22:30:13 INFO  AlertTest - Simple Alert Accepted Successfully
+2026-06-15 22:30:14 INFO  TabTest - Total Result Found: 5
+2026-06-15 22:30:18 INFO  MouseHoverTest - Mouse Hover Test 1
+2026-06-15 22:30:18 INFO  DoubleClickTest - Double Click Test Started
+2026-06-15 22:30:19 INFO  DoubleClickTest - Original Text : Hello World!
+2026-06-15 22:30:19 INFO  AlertTest - Confirm Alert Accept Test Started
+2026-06-15 22:30:19 INFO  DoubleClickTest - Copied Text   : Hello World!
+2026-06-15 22:30:19 INFO  DoubleClickTest - Double Click Test Passed
+2026-06-15 22:30:19 INFO  AlertTest - Confirm Alert Result : You pressed OK!
+2026-06-15 22:30:19 INFO  DragDropTest - Drag and Drop Test Started
+2026-06-15 22:30:19 INFO  DragDropTest - Drag and Drop Test Passed
+2026-06-15 22:30:19 INFO  DragDropTest - Drop Result: Dropped!
+2026-06-15 22:30:20 INFO  MouseHoverTest - Mouse Hover and Mobiles Click Successful
+2026-06-15 22:30:23 INFO  SvgTest - Starting Svg Element Test
+2026-06-15 22:30:23 INFO  DownloadFilesTest - Current URL : https://testautomationpractice.blogspot.com/p/download-files_25.html
+2026-06-15 22:30:23 INFO  DownloadFilesTest - Download Files Test Passed
+2026-06-15 22:30:28 INFO  SliderTest - Slider moved successfully
+2026-06-15 22:30:28 INFO  DropDownTest - Scrolling Dropdown Test Started
+2026-06-15 22:30:28 INFO  AlertTest - Confirm Alert Dismiss Test Started
+2026-06-15 22:30:28 INFO  AlertTest - Confirm Alert Result : You pressed Cancel!
+2026-06-15 22:30:29 INFO  DropDownTest - Selected Option: Item 59
+2026-06-15 22:30:29 INFO  DropDownTest - Scrolling Dropdown Test Passed
+2026-06-15 22:30:29 INFO  SvgTest - Red Circle Displayed : true
+2026-06-15 22:30:29 INFO  SvgTest - Green Rectangle Displayed : true
+2026-06-15 22:30:29 INFO  SvgTest - Blue Triangle Displayed : true
+2026-06-15 22:30:29 INFO  SvgTest - Svg Element Test Completed
+2026-06-15 22:30:33 INFO  LabelLinkTest - Mobile Labels Test Started
+2026-06-15 22:30:33 INFO  LabelLinkTest - Mobile Label : Samsung
+2026-06-15 22:30:33 INFO  LabelLinkTest - Mobile Label : Real Me
+2026-06-15 22:30:33 INFO  LabelLinkTest - Mobile Label : Moto
+2026-06-15 22:30:33 INFO  LabelLinkTest - Mobile Labels Test Passed
+2026-06-15 22:30:34 INFO  MouseHoverTest - Mouse Hover Test 2
+2026-06-15 22:30:34 INFO  ShadowDomTest - Shadow DOM Test Started
+2026-06-15 22:30:34 INFO  ShadowDomTest - Mobile Label : Mobiles
+2026-06-15 22:30:34 INFO  ShadowDomTest - Laptop Label : Laptops
+2026-06-15 22:30:34 INFO  ShadowDomTest - Blog Link : Blog
+2026-06-15 22:30:34 INFO  ShadowDomTest - Entered Text : Shadow DOM Testing
+2026-06-15 22:30:34 INFO  ShadowDomTest - CheckBox Selected : true
+2026-06-15 22:30:34 INFO  ShadowDomTest - Uploaded File : C:\fakepath\sample.txt
+2026-06-15 22:30:34 INFO  ShadowDomTest - Youtube Link : Youtube
+2026-06-15 22:30:34 INFO  ShadowDomTest - Shadow DOM Test Passed
+2026-06-15 22:30:35 INFO  MouseHoverTest - Mouse Hover and Laptops Click Successful
+2026-06-15 22:30:35 INFO  AlertTest - Prompt Alert Accept Test Started
+2026-06-15 22:30:35 INFO  AlertTest - Prompt Alert Result : Hello David! How are you today?
+2026-06-15 22:30:37 INFO  AlertTest - Prompt Alert Dismiss Test Started
+2026-06-15 22:30:38 INFO  LabelLinkTest - Laptop Links Test Started
+2026-06-15 22:30:38 INFO  LabelLinkTest - Laptop Link : Apple
+2026-06-15 22:30:38 INFO  LabelLinkTest - Laptop Link : Lenovo
+2026-06-15 22:30:38 INFO  LabelLinkTest - Laptop Link : Dell
+2026-06-15 22:30:38 INFO  LabelLinkTest - Laptop Links Test Passed
+2026-06-15 22:30:40 INFO  AlertTest - Prompt Alert Result : User cancelled the prompt.
+2026-06-15 22:30:44 INFO  LabelLinkTest - Broken Links Test Started
+2026-06-15 22:30:49 INFO  LabelLinkTest - Errorcode 400 -> 400
+2026-06-15 22:30:49 INFO  LabelLinkTest - Errorcode 401 -> 401
+2026-06-15 22:30:49 INFO  LabelLinkTest - Errorcode 403 -> 403
+2026-06-15 22:30:49 INFO  LabelLinkTest - Errorcode 404 -> 404
+2026-06-15 22:30:49 INFO  LabelLinkTest - Errorcode 408 -> 408
+2026-06-15 22:30:49 INFO  LabelLinkTest - Errorcode 500 -> 500
+2026-06-15 22:30:49 INFO  LabelLinkTest - Errorcode 502 -> 502
+2026-06-15 22:30:49 INFO  LabelLinkTest - Errorcode 503 -> 503
+2026-06-15 22:30:49 INFO  LabelLinkTest - Broken Links Test Passed
+2026-06-15 22:31:43 INFO  TableTest - Book Detail Fetch Start
+2026-06-15 22:31:43 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:31:43 INFO  UploadTest - Single File Upload Started
+2026-06-15 22:31:43 INFO  DateTest - Date Picker 1 started
+2026-06-15 22:31:43 INFO  GUIFormTest - Entering Name
+2026-06-15 22:31:43 INFO  GUIFormTest - Entering Email
+2026-06-15 22:31:43 INFO  TableTest - Maximum Price Book Details:
+ [Master In Selenium, Mukesh, Selenium, 3000]
+2026-06-15 22:31:43 INFO  TableTest - Maximum Price Book Assertion Passed
+2026-06-15 22:31:43 INFO  TableTest - Book Details Fetched Successfully
+2026-06-15 22:31:43 INFO  UploadTest - Upload Message : Single file selected: sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:31:43 INFO  UploadTest - Single File Upload Assertion Passed
+2026-06-15 22:31:43 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:31:43 INFO  GUIFormTest - Entering Address
+2026-06-15 22:31:43 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:31:43 INFO  GUIFormTest - Entering Days
+2026-06-15 22:31:43 INFO  GUIFormTest - Entering Country
+2026-06-15 22:31:43 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:31:43 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:31:44 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:31:44 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:31:44 INFO  ListTest - Single Color Test
+2026-06-15 22:31:44 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:31:44 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:31:46 INFO  ListTest - Single Animal Test
+2026-06-15 22:31:46 INFO  ListTest - Single color Assertion Passed
+2026-06-15 22:31:46 INFO  DateTest - Date Picker 1 Assertion Passed
+2026-06-15 22:31:46 INFO  ListTest - Single Animal Assertion Passed
+2026-06-15 22:31:49 INFO  UploadTest - Multiple File Upload Started
+2026-06-15 22:31:49 INFO  TableTest - Verifying Dynamic Table Details
+2026-06-15 22:31:49 INFO  TableTest - CPU load of Chrome process: 9.2%
+2026-06-15 22:31:49 INFO  TableTest - Memory Size of Firefox process: 48.8 MB
+2026-06-15 22:31:49 INFO  TableTest - Network speed of Chrome process: 7.8 Mbps
+2026-06-15 22:31:49 INFO  TableTest - Disk space of Firefox process: 0.47 MB/s
+2026-06-15 22:31:49 INFO  TableTest - Dynamic Table Assertion Passed
+2026-06-15 22:31:49 INFO  TableTest - Dynamic Table Details Fetched
+2026-06-15 22:31:49 INFO  UploadTest - Upload Message : Multiple files selected:
+demo.txt, Size: 19 bytes, Type: text/plain
+sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:31:49 INFO  UploadTest - Multiple File Upload Assertion 1 Passed
+2026-06-15 22:31:49 INFO  UploadTest - Multiple File Upload Assertion 2 Passed
+2026-06-15 22:31:49 INFO  UploadTest - Multiple File Upload Completed
+2026-06-15 22:31:49 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:31:49 INFO  GUIFormTest - Entering Name
+2026-06-15 22:31:50 INFO  GUIFormTest - Entering Email
+2026-06-15 22:31:50 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:31:50 INFO  GUIFormTest - Entering Address
+2026-06-15 22:31:50 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:31:50 INFO  GUIFormTest - Entering Days
+2026-06-15 22:31:50 INFO  GUIFormTest - Entering Country
+2026-06-15 22:31:50 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:31:50 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:31:50 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:31:50 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:31:50 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:31:50 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:31:51 INFO  ListTest - Multiple Color Test
+2026-06-15 22:31:51 INFO  DateTest - Date Picker 2 started
+2026-06-15 22:31:52 INFO  DateTest - Date Picker 2 Assertion Passed
+2026-06-15 22:31:54 INFO  ListTest - Multiple Animal Test
+2026-06-15 22:31:54 INFO  FormTest - Form Test Started
+2026-06-15 22:31:54 INFO  TableTest - Verifying Pagination Table Details
+2026-06-15 22:31:55 INFO  FormTest - Section 1 Assertion Passed
+2026-06-15 22:31:55 INFO  FormTest - Section 2 Assertion Passed
+2026-06-15 22:31:55 INFO  FormTest - Section 3 Assertion Passed
+2026-06-15 22:31:55 INFO  FormTest - Form Test Completed
+2026-06-15 22:31:55 INFO  ListTest - Multiple color Assertion Passed
+2026-06-15 22:31:55 INFO  ListTest - Multiple Animal Assertion Passed
+2026-06-15 22:31:55 INFO  TableTest - Selected Row Details: [8, Action Camera, $15.99, ]
+2026-06-15 22:31:55 INFO  TableTest - Pagination Table Assertion Passed
+2026-06-15 22:31:55 INFO  TableTest - Pagination Table Details Fetched
+2026-06-15 22:31:55 INFO  HiddenAjaxTest - Hidden Ajax Test Started
+2026-06-15 22:31:57 INFO  DateTest - Date Picker 3 started
+2026-06-15 22:31:57 INFO  DateTest - Date Range Result :
+You selected a range of 15 days.
+2026-06-15 22:31:57 INFO  DateTest - Date Picker 3 Assertion Passed
+2026-06-15 22:32:00 INFO  DownloadFilesTest - Download File Test Started
+2026-06-15 22:32:00 INFO  DynamicButtonTest - Dynamic Button Test Started
+2026-06-15 22:32:00 INFO  DynamicButtonTest - Clicking START Button
+2026-06-15 22:32:00 INFO  DynamicButtonTest - STOP Button Displayed
+2026-06-15 22:32:01 INFO  TabTest - Wiki Pedia Search Test
+2026-06-15 22:32:02 INFO  HiddenAjaxTest - Ajax Status Assertion Passed
+2026-06-15 22:32:02 INFO  HiddenAjaxTest - Hidden Ajax Test Completed
+2026-06-15 22:32:02 INFO  DynamicButtonTest - Clicking STOP Button
+2026-06-15 22:32:02 INFO  AlertTest - Simple Alert Test Started
+2026-06-15 22:32:03 INFO  DynamicButtonTest - START Button Displayed Again
+2026-06-15 22:32:03 INFO  DynamicButtonTest - Dynamic Button Test Passed
+2026-06-15 22:32:03 INFO  AlertTest - Simple Alert Accepted Successfully
+2026-06-15 22:32:04 INFO  TabTest - Total Result Found: 5
+2026-06-15 22:32:07 INFO  MouseHoverTest - Mouse Hover Test 1
+2026-06-15 22:32:08 INFO  DoubleClickTest - Double Click Test Started
+2026-06-15 22:32:08 INFO  DoubleClickTest - Original Text : Hello World!
+2026-06-15 22:32:08 INFO  DoubleClickTest - Copied Text   : Hello World!
+2026-06-15 22:32:08 INFO  DoubleClickTest - Double Click Test Passed
+2026-06-15 22:32:08 INFO  AlertTest - Confirm Alert Accept Test Started
+2026-06-15 22:32:08 INFO  AlertTest - Confirm Alert Result : You pressed OK!
+2026-06-15 22:32:09 INFO  MouseHoverTest - Mouse Hover and Mobiles Click Successful
+2026-06-15 22:32:09 INFO  DragDropTest - Drag and Drop Test Started
+2026-06-15 22:32:09 INFO  DragDropTest - Drag and Drop Test Passed
+2026-06-15 22:32:09 INFO  DragDropTest - Drop Result: Dropped!
+2026-06-15 22:32:12 INFO  MouseHoverTest - Mouse Hover Test 2
+2026-06-15 22:32:13 INFO  DownloadFilesTest - Current URL : https://testautomationpractice.blogspot.com/p/download-files_25.html
+2026-06-15 22:32:13 INFO  DownloadFilesTest - Download Files Test Passed
+2026-06-15 22:32:15 INFO  AlertTest - Confirm Alert Dismiss Test Started
+2026-06-15 22:32:15 INFO  AlertTest - Confirm Alert Result : You pressed Cancel!
+2026-06-15 22:32:17 INFO  SvgTest - Starting Svg Element Test
+2026-06-15 22:32:17 INFO  SliderTest - Slider moved successfully
+2026-06-15 22:32:17 INFO  MouseHoverTest - Mouse Hover and Laptops Click Successful
+2026-06-15 22:32:18 INFO  SvgTest - Red Circle Displayed : true
+2026-06-15 22:32:18 INFO  SvgTest - Green Rectangle Displayed : true
+2026-06-15 22:32:18 INFO  SvgTest - Blue Triangle Displayed : true
+2026-06-15 22:32:18 INFO  SvgTest - Svg Element Test Completed
+2026-06-15 22:32:18 INFO  DropDownTest - Scrolling Dropdown Test Started
+2026-06-15 22:32:19 INFO  DropDownTest - Selected Option: Item 59
+2026-06-15 22:32:19 INFO  DropDownTest - Scrolling Dropdown Test Passed
+2026-06-15 22:32:20 INFO  AlertTest - Prompt Alert Accept Test Started
+2026-06-15 22:32:20 INFO  AlertTest - Prompt Alert Result : Hello David! How are you today?
+2026-06-15 22:32:26 INFO  ShadowDomTest - Shadow DOM Test Started
+2026-06-15 22:32:26 INFO  ShadowDomTest - Mobile Label : Mobiles
+2026-06-15 22:32:26 INFO  ShadowDomTest - Laptop Label : Laptops
+2026-06-15 22:32:26 INFO  ShadowDomTest - Blog Link : Blog
+2026-06-15 22:32:26 INFO  ShadowDomTest - Entered Text : Shadow DOM Testing
+2026-06-15 22:32:26 INFO  ShadowDomTest - CheckBox Selected : true
+2026-06-15 22:32:26 INFO  LabelLinkTest - Mobile Labels Test Started
+2026-06-15 22:32:26 INFO  ShadowDomTest - Uploaded File : C:\fakepath\sample.txt
+2026-06-15 22:32:26 INFO  LabelLinkTest - Mobile Label : Samsung
+2026-06-15 22:32:26 INFO  LabelLinkTest - Mobile Label : Real Me
+2026-06-15 22:32:26 INFO  LabelLinkTest - Mobile Label : Moto
+2026-06-15 22:32:26 INFO  LabelLinkTest - Mobile Labels Test Passed
+2026-06-15 22:32:27 INFO  ShadowDomTest - Youtube Link : Youtube
+2026-06-15 22:32:27 INFO  ShadowDomTest - Shadow DOM Test Passed
+2026-06-15 22:32:27 INFO  AlertTest - Prompt Alert Dismiss Test Started
+2026-06-15 22:32:27 INFO  AlertTest - Prompt Alert Result : User cancelled the prompt.
+2026-06-15 22:32:32 INFO  LabelLinkTest - Laptop Links Test Started
+2026-06-15 22:32:32 INFO  LabelLinkTest - Laptop Link : Apple
+2026-06-15 22:32:32 INFO  LabelLinkTest - Laptop Link : Lenovo
+2026-06-15 22:32:32 INFO  LabelLinkTest - Laptop Link : Dell
+2026-06-15 22:32:32 INFO  LabelLinkTest - Laptop Links Test Passed
+2026-06-15 22:32:37 INFO  LabelLinkTest - Broken Links Test Started
+2026-06-15 22:32:42 INFO  LabelLinkTest - Errorcode 400 -> 400
+2026-06-15 22:32:42 INFO  LabelLinkTest - Errorcode 401 -> 401
+2026-06-15 22:32:42 INFO  LabelLinkTest - Errorcode 403 -> 403
+2026-06-15 22:32:42 INFO  LabelLinkTest - Errorcode 404 -> 404
+2026-06-15 22:32:42 INFO  LabelLinkTest - Errorcode 408 -> 408
+2026-06-15 22:32:42 INFO  LabelLinkTest - Errorcode 500 -> 500
+2026-06-15 22:32:42 INFO  LabelLinkTest - Errorcode 502 -> 502
+2026-06-15 22:32:42 INFO  LabelLinkTest - Errorcode 503 -> 503
+2026-06-15 22:32:42 INFO  LabelLinkTest - Broken Links Test Passed
+2026-06-15 22:36:59 INFO  TableTest - Book Detail Fetch Start
+2026-06-15 22:36:59 INFO  ListTest - Single Color Test
+2026-06-15 22:36:59 INFO  TableTest - Maximum Price Book Details:
+ [Master In Selenium, Mukesh, Selenium, 3000]
+2026-06-15 22:36:59 INFO  TableTest - Maximum Price Book Assertion Passed
+2026-06-15 22:36:59 INFO  TableTest - Book Details Fetched Successfully
+2026-06-15 22:37:01 INFO  ListTest - Single Animal Test
+2026-06-15 22:37:02 INFO  ListTest - Single color Assertion Passed
+2026-06-15 22:37:02 INFO  ListTest - Single Animal Assertion Passed
+2026-06-15 22:37:02 INFO  DateTest - Date Picker 1 started
+2026-06-15 22:37:02 INFO  UploadTest - Single File Upload Started
+2026-06-15 22:37:02 INFO  UploadTest - Upload Message : Single file selected: sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:37:02 INFO  UploadTest - Single File Upload Assertion Passed
+2026-06-15 22:37:05 INFO  TableTest - Verifying Dynamic Table Details
+2026-06-15 22:37:05 INFO  TableTest - CPU load of Chrome process: 6.5%
+2026-06-15 22:37:05 INFO  TableTest - Memory Size of Firefox process: 91.3 MB
+2026-06-15 22:37:05 INFO  TableTest - Network speed of Chrome process: 0.1 Mbps
+2026-06-15 22:37:05 INFO  TableTest - Disk space of Firefox process: 0.76 MB/s
+2026-06-15 22:37:05 INFO  TableTest - Dynamic Table Assertion Passed
+2026-06-15 22:37:05 INFO  TableTest - Dynamic Table Details Fetched
+2026-06-15 22:37:05 INFO  DateTest - Date Picker 1 Assertion Passed
+2026-06-15 22:37:06 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:37:06 INFO  GUIFormTest - Entering Name
+2026-06-15 22:37:06 INFO  GUIFormTest - Entering Email
+2026-06-15 22:37:06 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:37:06 INFO  GUIFormTest - Entering Address
+2026-06-15 22:37:06 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:37:06 INFO  GUIFormTest - Entering Days
+2026-06-15 22:37:06 INFO  GUIFormTest - Entering Country
+2026-06-15 22:37:07 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:37:07 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:37:07 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:37:07 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:37:07 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:37:07 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:37:07 INFO  ListTest - Multiple Color Test
+2026-06-15 22:37:08 INFO  UploadTest - Multiple File Upload Started
+2026-06-15 22:37:08 INFO  UploadTest - Upload Message : Multiple files selected:
+demo.txt, Size: 19 bytes, Type: text/plain
+sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:37:08 INFO  UploadTest - Multiple File Upload Assertion 1 Passed
+2026-06-15 22:37:08 INFO  UploadTest - Multiple File Upload Assertion 2 Passed
+2026-06-15 22:37:08 INFO  UploadTest - Multiple File Upload Completed
+2026-06-15 22:37:10 INFO  TableTest - Verifying Pagination Table Details
+2026-06-15 22:37:10 INFO  ListTest - Multiple Animal Test
+2026-06-15 22:37:11 INFO  DateTest - Date Picker 2 started
+2026-06-15 22:37:11 INFO  TableTest - Selected Row Details: [8, Action Camera, $15.99, ]
+2026-06-15 22:37:11 INFO  TableTest - Pagination Table Assertion Passed
+2026-06-15 22:37:11 INFO  TableTest - Pagination Table Details Fetched
+2026-06-15 22:37:11 INFO  ListTest - Multiple color Assertion Passed
+2026-06-15 22:37:11 INFO  ListTest - Multiple Animal Assertion Passed
+2026-06-15 22:37:11 INFO  DateTest - Date Picker 2 Assertion Passed
+2026-06-15 22:37:12 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:37:12 INFO  GUIFormTest - Entering Name
+2026-06-15 22:37:12 INFO  GUIFormTest - Entering Email
+2026-06-15 22:37:12 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:37:13 INFO  GUIFormTest - Entering Address
+2026-06-15 22:37:13 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:37:13 INFO  GUIFormTest - Entering Days
+2026-06-15 22:37:13 INFO  GUIFormTest - Entering Country
+2026-06-15 22:37:13 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:37:13 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:37:13 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:37:13 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:37:13 INFO  FormTest - Form Test Started
+2026-06-15 22:37:13 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:37:13 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:37:14 INFO  FormTest - Section 1 Assertion Passed
+2026-06-15 22:37:14 INFO  FormTest - Section 2 Assertion Passed
+2026-06-15 22:37:14 INFO  FormTest - Section 3 Assertion Passed
+2026-06-15 22:37:14 INFO  FormTest - Form Test Completed
+2026-06-15 22:37:16 INFO  HiddenAjaxTest - Hidden Ajax Test Started
+2026-06-15 22:37:16 INFO  DateTest - Date Picker 3 started
+2026-06-15 22:37:17 INFO  DownloadFilesTest - Download File Test Started
+2026-06-15 22:37:17 INFO  DateTest - Date Range Result :
+You selected a range of 15 days.
+2026-06-15 22:37:17 INFO  DateTest - Date Picker 3 Assertion Passed
+2026-06-15 22:37:19 INFO  TabTest - Wiki Pedia Search Test
+2026-06-15 22:37:19 INFO  DynamicButtonTest - Dynamic Button Test Started
+2026-06-15 22:37:19 INFO  DynamicButtonTest - Clicking START Button
+2026-06-15 22:37:19 INFO  DynamicButtonTest - STOP Button Displayed
+2026-06-15 22:37:21 INFO  DynamicButtonTest - Clicking STOP Button
+2026-06-15 22:37:21 INFO  DynamicButtonTest - START Button Displayed Again
+2026-06-15 22:37:21 INFO  DynamicButtonTest - Dynamic Button Test Passed
+2026-06-15 22:37:22 INFO  TabTest - Total Result Found: 5
+2026-06-15 22:37:22 INFO  AlertTest - Simple Alert Test Started
+2026-06-15 22:37:22 INFO  AlertTest - Simple Alert Accepted Successfully
+2026-06-15 22:37:23 INFO  HiddenAjaxTest - Ajax Status Assertion Passed
+2026-06-15 22:37:23 INFO  HiddenAjaxTest - Hidden Ajax Test Completed
+2026-06-15 22:37:26 INFO  MouseHoverTest - Mouse Hover Test 1
+2026-06-15 22:37:27 INFO  DoubleClickTest - Double Click Test Started
+2026-06-15 22:37:27 INFO  DoubleClickTest - Original Text : Hello World!
+2026-06-15 22:37:27 INFO  DoubleClickTest - Copied Text   : Hello World!
+2026-06-15 22:37:27 INFO  DoubleClickTest - Double Click Test Passed
+2026-06-15 22:37:28 INFO  MouseHoverTest - Mouse Hover and Mobiles Click Successful
+2026-06-15 22:37:28 INFO  AlertTest - Confirm Alert Accept Test Started
+2026-06-15 22:37:28 INFO  DragDropTest - Drag and Drop Test Started
+2026-06-15 22:37:28 INFO  AlertTest - Confirm Alert Result : You pressed OK!
+2026-06-15 22:37:29 INFO  DragDropTest - Drag and Drop Test Passed
+2026-06-15 22:37:29 INFO  DragDropTest - Drop Result: Dropped!
+2026-06-15 22:37:29 INFO  DownloadFilesTest - Current URL : https://testautomationpractice.blogspot.com/p/download-files_25.html
+2026-06-15 22:37:29 INFO  DownloadFilesTest - Download Files Test Passed
+2026-06-15 22:37:33 INFO  MouseHoverTest - Mouse Hover Test 2
+2026-06-15 22:37:34 INFO  AlertTest - Confirm Alert Dismiss Test Started
+2026-06-15 22:37:34 INFO  AlertTest - Confirm Alert Result : You pressed Cancel!
+2026-06-15 22:37:34 INFO  SvgTest - Starting Svg Element Test
+2026-06-15 22:37:34 INFO  MouseHoverTest - Mouse Hover and Laptops Click Successful
+2026-06-15 22:37:35 INFO  DropDownTest - Scrolling Dropdown Test Started
+2026-06-15 22:37:35 INFO  SliderTest - Slider moved successfully
+2026-06-15 22:37:35 INFO  SvgTest - Red Circle Displayed : true
+2026-06-15 22:37:35 INFO  SvgTest - Green Rectangle Displayed : true
+2026-06-15 22:37:35 INFO  SvgTest - Blue Triangle Displayed : true
+2026-06-15 22:37:35 INFO  SvgTest - Svg Element Test Completed
+2026-06-15 22:37:36 INFO  DropDownTest - Selected Option: Item 59
+2026-06-15 22:37:36 INFO  DropDownTest - Scrolling Dropdown Test Passed
+2026-06-15 22:37:39 INFO  AlertTest - Prompt Alert Accept Test Started
+2026-06-15 22:37:39 INFO  AlertTest - Prompt Alert Result : Hello David! How are you today?
+2026-06-15 22:37:40 INFO  LabelLinkTest - Mobile Labels Test Started
+2026-06-15 22:37:40 INFO  LabelLinkTest - Mobile Label : Samsung
+2026-06-15 22:37:40 INFO  LabelLinkTest - Mobile Label : Real Me
+2026-06-15 22:37:40 INFO  LabelLinkTest - Mobile Label : Moto
+2026-06-15 22:37:40 INFO  LabelLinkTest - Mobile Labels Test Passed
+2026-06-15 22:37:41 INFO  ShadowDomTest - Shadow DOM Test Started
+2026-06-15 22:37:41 INFO  ShadowDomTest - Mobile Label : Mobiles
+2026-06-15 22:37:41 INFO  ShadowDomTest - Laptop Label : Laptops
+2026-06-15 22:37:41 INFO  ShadowDomTest - Blog Link : Blog
+2026-06-15 22:37:41 INFO  ShadowDomTest - Entered Text : Shadow DOM Testing
+2026-06-15 22:37:41 INFO  ShadowDomTest - CheckBox Selected : true
+2026-06-15 22:37:41 INFO  ShadowDomTest - Uploaded File : C:\fakepath\sample.txt
+2026-06-15 22:37:41 INFO  ShadowDomTest - Youtube Link : Youtube
+2026-06-15 22:37:41 INFO  ShadowDomTest - Shadow DOM Test Passed
+2026-06-15 22:37:44 INFO  AlertTest - Prompt Alert Dismiss Test Started
+2026-06-15 22:37:44 INFO  AlertTest - Prompt Alert Result : User cancelled the prompt.
+2026-06-15 22:37:45 INFO  LabelLinkTest - Laptop Links Test Started
+2026-06-15 22:37:45 INFO  LabelLinkTest - Laptop Link : Apple
+2026-06-15 22:37:45 INFO  LabelLinkTest - Laptop Link : Lenovo
+2026-06-15 22:37:45 INFO  LabelLinkTest - Laptop Link : Dell
+2026-06-15 22:37:45 INFO  LabelLinkTest - Laptop Links Test Passed
+2026-06-15 22:37:54 INFO  LabelLinkTest - Broken Links Test Started
+2026-06-15 22:37:59 INFO  LabelLinkTest - Errorcode 400 -> 400
+2026-06-15 22:37:59 INFO  LabelLinkTest - Errorcode 401 -> 401
+2026-06-15 22:37:59 INFO  LabelLinkTest - Errorcode 403 -> 403
+2026-06-15 22:37:59 INFO  LabelLinkTest - Errorcode 404 -> 404
+2026-06-15 22:37:59 INFO  LabelLinkTest - Errorcode 408 -> 408
+2026-06-15 22:37:59 INFO  LabelLinkTest - Errorcode 500 -> 500
+2026-06-15 22:37:59 INFO  LabelLinkTest - Errorcode 502 -> 502
+2026-06-15 22:37:59 INFO  LabelLinkTest - Errorcode 503 -> 503
+2026-06-15 22:37:59 INFO  LabelLinkTest - Broken Links Test Passed
+2026-06-15 22:39:07 INFO  TableTest - Book Detail Fetch Start
+2026-06-15 22:39:07 INFO  ListTest - Single Color Test
+2026-06-15 22:39:07 INFO  TableTest - Maximum Price Book Details:
+ [Master In Selenium, Mukesh, Selenium, 3000]
+2026-06-15 22:39:07 INFO  TableTest - Maximum Price Book Assertion Passed
+2026-06-15 22:39:07 INFO  TableTest - Book Details Fetched Successfully
+2026-06-15 22:39:07 INFO  DateTest - Date Picker 1 started
+2026-06-15 22:39:09 INFO  ListTest - Single Animal Test
+2026-06-15 22:39:09 INFO  ListTest - Single color Assertion Passed
+2026-06-15 22:39:09 INFO  ListTest - Single Animal Assertion Passed
+2026-06-15 22:39:10 INFO  DateTest - Date Picker 1 Assertion Passed
+2026-06-15 22:39:12 INFO  TableTest - Verifying Dynamic Table Details
+2026-06-15 22:39:12 INFO  TableTest - CPU load of Chrome process: 1.1%
+2026-06-15 22:39:12 INFO  TableTest - Memory Size of Firefox process: 69.6 MB
+2026-06-15 22:39:12 INFO  TableTest - Network speed of Chrome process: 4.8 Mbps
+2026-06-15 22:39:12 INFO  TableTest - Disk space of Firefox process: 0.07 MB/s
+2026-06-15 22:39:12 INFO  TableTest - Dynamic Table Assertion Passed
+2026-06-15 22:39:12 INFO  TableTest - Dynamic Table Details Fetched
+2026-06-15 22:39:15 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:39:15 INFO  GUIFormTest - Entering Name
+2026-06-15 22:39:15 INFO  DateTest - Date Picker 2 started
+2026-06-15 22:39:15 INFO  UploadTest - Single File Upload Started
+2026-06-15 22:39:15 INFO  GUIFormTest - Entering Email
+2026-06-15 22:39:15 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:39:15 INFO  GUIFormTest - Entering Address
+2026-06-15 22:39:15 INFO  UploadTest - Upload Message : Single file selected: sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:39:15 INFO  UploadTest - Single File Upload Assertion Passed
+2026-06-15 22:39:15 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:39:15 INFO  GUIFormTest - Entering Days
+2026-06-15 22:39:15 INFO  DateTest - Date Picker 2 Assertion Passed
+2026-06-15 22:39:15 INFO  GUIFormTest - Entering Country
+2026-06-15 22:39:15 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:39:15 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:39:15 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:39:15 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:39:15 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:39:15 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:39:18 INFO  ListTest - Multiple Color Test
+2026-06-15 22:39:21 INFO  ListTest - Multiple Animal Test
+2026-06-15 22:39:22 INFO  ListTest - Multiple color Assertion Passed
+2026-06-15 22:39:22 INFO  ListTest - Multiple Animal Assertion Passed
+2026-06-15 22:39:23 INFO  TableTest - Verifying Pagination Table Details
+2026-06-15 22:39:23 INFO  DateTest - Date Picker 3 started
+2026-06-15 22:39:23 INFO  DateTest - Date Range Result :
+You selected a range of 15 days.
+2026-06-15 22:39:23 INFO  DateTest - Date Picker 3 Assertion Passed
+2026-06-15 22:39:24 INFO  TableTest - Selected Row Details: [8, Action Camera, $15.99, ]
+2026-06-15 22:39:24 INFO  TableTest - Pagination Table Assertion Passed
+2026-06-15 22:39:24 INFO  TableTest - Pagination Table Details Fetched
+2026-06-15 22:39:25 INFO  UploadTest - Multiple File Upload Started
+2026-06-15 22:39:25 INFO  UploadTest - Upload Message : Multiple files selected:
+demo.txt, Size: 19 bytes, Type: text/plain
+sample.txt, Size: 21 bytes, Type: text/plain
+2026-06-15 22:39:25 INFO  UploadTest - Multiple File Upload Assertion 1 Passed
+2026-06-15 22:39:25 INFO  UploadTest - Multiple File Upload Assertion 2 Passed
+2026-06-15 22:39:25 INFO  UploadTest - Multiple File Upload Completed
+2026-06-15 22:39:26 INFO  GUIFormTest - Form Test Started
+2026-06-15 22:39:26 INFO  GUIFormTest - Entering Name
+2026-06-15 22:39:26 INFO  GUIFormTest - Entering Email
+2026-06-15 22:39:26 INFO  GUIFormTest - Entering Phone
+2026-06-15 22:39:26 INFO  GUIFormTest - Entering Address
+2026-06-15 22:39:26 INFO  GUIFormTest - Entering Gender
+2026-06-15 22:39:26 INFO  GUIFormTest - Entering Days
+2026-06-15 22:39:26 INFO  GUIFormTest - Entering Country
+2026-06-15 22:39:26 INFO  GUIFormTest - Name Assertion Passed
+2026-06-15 22:39:26 INFO  GUIFormTest - Email Assertion Passed
+2026-06-15 22:39:26 INFO  GUIFormTest - Phone Assertion Passed
+2026-06-15 22:39:26 INFO  GUIFormTest - Address Assertion Passed
+2026-06-15 22:39:26 INFO  GUIFormTest - Country Assertion Passed
+2026-06-15 22:39:26 INFO  GUIFormTest - Form Test Completed
+2026-06-15 22:39:27 INFO  FormTest - Form Test Started
+2026-06-15 22:39:27 INFO  FormTest - Section 1 Assertion Passed
+2026-06-15 22:39:27 INFO  FormTest - Section 2 Assertion Passed
+2026-06-15 22:39:27 INFO  FormTest - Section 3 Assertion Passed
+2026-06-15 22:39:27 INFO  FormTest - Form Test Completed
+2026-06-15 22:39:29 INFO  HiddenAjaxTest - Hidden Ajax Test Started
+2026-06-15 22:39:29 INFO  DownloadFilesTest - Download File Test Started
+2026-06-15 22:39:30 INFO  TabTest - Wiki Pedia Search Test
+2026-06-15 22:39:30 INFO  DynamicButtonTest - Dynamic Button Test Started
+2026-06-15 22:39:30 INFO  DynamicButtonTest - Clicking START Button
+2026-06-15 22:39:33 INFO  TabTest - Total Result Found: 5
+2026-06-15 22:39:33 INFO  DynamicButtonTest - STOP Button Displayed
+2026-06-15 22:39:33 INFO  AlertTest - Simple Alert Test Started
+2026-06-15 22:39:33 INFO  AlertTest - Simple Alert Accepted Successfully
+2026-06-15 22:39:35 INFO  HiddenAjaxTest - Ajax Status Assertion Passed
+2026-06-15 22:39:35 INFO  HiddenAjaxTest - Hidden Ajax Test Completed
+2026-06-15 22:39:35 INFO  DynamicButtonTest - Clicking STOP Button
+2026-06-15 22:39:35 INFO  DynamicButtonTest - START Button Displayed Again
+2026-06-15 22:39:35 INFO  DynamicButtonTest - Dynamic Button Test Passed
+2026-06-15 22:39:38 INFO  DoubleClickTest - Double Click Test Started
+2026-06-15 22:39:39 INFO  AlertTest - Confirm Alert Accept Test Started
+2026-06-15 22:39:39 INFO  AlertTest - Confirm Alert Result : You pressed OK!
+2026-06-15 22:39:39 INFO  MouseHoverTest - Mouse Hover Test 1
+2026-06-15 22:39:40 INFO  MouseHoverTest - Mouse Hover and Mobiles Click Successful
+2026-06-15 22:39:40 INFO  DragDropTest - Drag and Drop Test Started
+2026-06-15 22:39:41 INFO  DoubleClickTest - Original Text : Hello World!
+2026-06-15 22:39:41 INFO  DoubleClickTest - Copied Text   : Hello World!
+2026-06-15 22:39:41 INFO  DoubleClickTest - Double Click Test Passed
+2026-06-15 22:39:41 INFO  DragDropTest - Drag and Drop Test Passed
+2026-06-15 22:39:41 INFO  DragDropTest - Drop Result: Dropped!
+2026-06-15 22:39:41 INFO  DownloadFilesTest - Current URL : https://testautomationpractice.blogspot.com/p/download-files_25.html
+2026-06-15 22:39:41 INFO  DownloadFilesTest - Download Files Test Passed
+2026-06-15 22:39:44 INFO  AlertTest - Confirm Alert Dismiss Test Started
+2026-06-15 22:39:45 INFO  AlertTest - Confirm Alert Result : You pressed Cancel!
+2026-06-15 22:39:46 INFO  MouseHoverTest - Mouse Hover Test 2
+2026-06-15 22:39:46 INFO  SvgTest - Starting Svg Element Test
+2026-06-15 22:39:47 INFO  DropDownTest - Scrolling Dropdown Test Started
+2026-06-15 22:39:47 INFO  MouseHoverTest - Mouse Hover and Laptops Click Successful
+2026-06-15 22:39:47 INFO  SvgTest - Red Circle Displayed : true
+2026-06-15 22:39:47 INFO  SvgTest - Green Rectangle Displayed : true
+2026-06-15 22:39:47 INFO  SvgTest - Blue Triangle Displayed : true
+2026-06-15 22:39:47 INFO  SvgTest - Svg Element Test Completed
+2026-06-15 22:39:48 INFO  DropDownTest - Selected Option: Item 59
+2026-06-15 22:39:48 INFO  DropDownTest - Scrolling Dropdown Test Passed
+2026-06-15 22:39:49 INFO  SliderTest - Slider moved successfully
+2026-06-15 22:39:50 INFO  ShadowDomTest - Shadow DOM Test Started
+2026-06-15 22:39:50 INFO  AlertTest - Prompt Alert Accept Test Started
+2026-06-15 22:39:50 INFO  AlertTest - Prompt Alert Result : Hello David! How are you today?
+2026-06-15 22:39:52 INFO  LabelLinkTest - Mobile Labels Test Started
+2026-06-15 22:39:53 INFO  LabelLinkTest - Mobile Label : Samsung
+2026-06-15 22:39:53 INFO  LabelLinkTest - Mobile Label : Real Me
+2026-06-15 22:39:53 INFO  LabelLinkTest - Mobile Label : Moto
+2026-06-15 22:39:53 INFO  LabelLinkTest - Mobile Labels Test Passed
+2026-06-15 22:39:53 INFO  ShadowDomTest - Mobile Label : Mobiles
+2026-06-15 22:39:53 INFO  ShadowDomTest - Laptop Label : Laptops
+2026-06-15 22:39:53 INFO  ShadowDomTest - Blog Link : Blog
+2026-06-15 22:39:53 INFO  ShadowDomTest - Entered Text : Shadow DOM Testing
+2026-06-15 22:39:53 INFO  ShadowDomTest - CheckBox Selected : true
+2026-06-15 22:39:53 INFO  ShadowDomTest - Uploaded File : C:\fakepath\sample.txt
+2026-06-15 22:39:53 INFO  ShadowDomTest - Youtube Link : Youtube
+2026-06-15 22:39:53 INFO  ShadowDomTest - Shadow DOM Test Passed
+2026-06-15 22:39:55 INFO  AlertTest - Prompt Alert Dismiss Test Started
+2026-06-15 22:39:55 INFO  AlertTest - Prompt Alert Result : User cancelled the prompt.
+2026-06-15 22:39:59 INFO  LabelLinkTest - Laptop Links Test Started
+2026-06-15 22:39:59 INFO  LabelLinkTest - Laptop Link : Apple
+2026-06-15 22:39:59 INFO  LabelLinkTest - Laptop Link : Lenovo
+2026-06-15 22:39:59 INFO  LabelLinkTest - Laptop Link : Dell
+2026-06-15 22:39:59 INFO  LabelLinkTest - Laptop Links Test Passed
+2026-06-15 22:40:05 INFO  LabelLinkTest - Broken Links Test Started
+2026-06-15 22:40:11 INFO  LabelLinkTest - Errorcode 400 -> 400
+2026-06-15 22:40:11 INFO  LabelLinkTest - Errorcode 401 -> 401
+2026-06-15 22:40:11 INFO  LabelLinkTest - Errorcode 403 -> 403
+2026-06-15 22:40:11 INFO  LabelLinkTest - Errorcode 404 -> 404
+2026-06-15 22:40:11 INFO  LabelLinkTest - Errorcode 408 -> 408
+2026-06-15 22:40:11 INFO  LabelLinkTest - Errorcode 500 -> 500
+2026-06-15 22:40:11 INFO  LabelLinkTest - Errorcode 502 -> 502
+2026-06-15 22:40:11 INFO  LabelLinkTest - Errorcode 503 -> 503
+2026-06-15 22:40:11 INFO  LabelLinkTest - Broken Links Test Passed
